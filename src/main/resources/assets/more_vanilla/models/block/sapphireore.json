@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/sapphire_ore",
+    "up": "more_vanilla:block/sapphire_ore",
+    "north": "more_vanilla:block/sapphire_ore",
+    "east": "more_vanilla:block/sapphire_ore",
+    "south": "more_vanilla:block/sapphire_ore",
+    "west": "more_vanilla:block/sapphire_ore",
+    "particle": "more_vanilla:block/sapphire_ore"
+  },
+  "render_type": "solid"
+}

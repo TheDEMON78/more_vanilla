@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "more_vanilla:enderzone_planks"
+    }
+  ],
+  "result": {
+    "id": "more_vanilla:enderzone_button",
+    "count": 1
+  }
+}

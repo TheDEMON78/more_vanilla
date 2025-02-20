@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:emeraldexavator",
+    "more_vanilla:sapphireexavator",
+    "more_vanilla:rubyexavator",
+    "more_vanilla:rubyshovel",
+    "more_vanilla:emeraldshovel",
+    "more_vanilla:sapphireshovel",
+    "more_vanilla:upgradediamondnetheriteexavator",
+    "more_vanilla:upgradeemerauldnetheriteexavator",
+    "more_vanilla:upgradegoldnetheriteexavator",
+    "more_vanilla:upgradeironnetheriteexavator",
+    "more_vanilla:upgradenetheritediamondshovel",
+    "more_vanilla:upgradenetheriteemerauldshovel",
+    "more_vanilla:upgradenetheritegoldshovel",
+    "more_vanilla:upgradenetheriteiron_shovel",
+    "more_vanilla:enderite_exavator",
+    "more_vanilla:enderite_shovel",
+    "more_vanilla:netherite_exavator",
+    "more_vanilla:diamond_exavator",
+    "more_vanilla:golden_exavator",
+    "more_vanilla:iron_exavator",
+    "more_vanilla:stone_exavator",
+    "more_vanilla:woodenexavator"
+  ]
+}

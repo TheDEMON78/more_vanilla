@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "more_vanilla:sapphireshovel"
+    },
+    {
+      "item": "more_vanilla:sapphireaxe"
+    },
+    {
+      "item": "more_vanilla:sapphirepickaxe"
+    }
+  ],
+  "result": {
+    "id": "more_vanilla:adapaxelsapphire",
+    "count": 1
+  }
+}

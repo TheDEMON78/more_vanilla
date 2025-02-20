@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:ruby"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:rubyarmor_boots",
+    "count": 1
+  }
+}

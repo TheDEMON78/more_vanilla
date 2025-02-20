@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "upgradeironnetherite_excavator",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Upgrade iron netherite exavator",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgradenetherite"
+      }
+    ],
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 4.0,
+    "usageCount": 2100,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Upgradenetheriteironingot"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "UpgradeironnetheriteQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "UpgradeironnetheriteQuandLobjetEstFabriquefondu"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "WoodenexavatorQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

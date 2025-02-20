@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:diamond_exavator"
+    },
+    "title": {
+      "translate": "advancements.exavatoradvancementdiamond.title"
+    },
+    "description": {
+      "translate": "advancements.exavatoradvancementdiamond.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "exavatoradvancementdiamond_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:exavatoradvancementgolden"
+}

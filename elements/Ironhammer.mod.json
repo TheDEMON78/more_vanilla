@@ -1,0 +1,41 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "iron_hammer",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Iron hammer",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:TheDEMONmod"
+      }
+    ],
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 14,
+    "damageVsEntity": 4.0,
+    "usageCount": 300,
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "IRON",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "IronhammerQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "IronhammerQuandLobjetEstFabriquefondu"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "WoodenhammerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

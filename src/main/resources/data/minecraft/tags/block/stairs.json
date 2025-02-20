@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:enderzone_stairs",
+    "more_vanilla:far_end_stairs",
+    "more_vanilla:endrockstairs",
+    "more_vanilla:endplanksstairs"
+  ]
+}

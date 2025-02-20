@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="more_vanilla"
+version="1"
+displayName="More Vanilla"
+displayURL="https://www.youtube.com/channel/UCK_rI1QIxgwn5kd0UoYvbEQ"
+credits="https://www.youtube.com/channel/UCK_rI1QIxgwn5kd0UoYvbEQ"
+authors="The DEMON"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.more_vanilla]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.more_vanilla]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

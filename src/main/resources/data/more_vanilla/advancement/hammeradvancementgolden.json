@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:goldhammer"
+    },
+    "title": {
+      "translate": "advancements.hammeradvancementgolden.title"
+    },
+    "description": {
+      "translate": "advancements.hammeradvancementgolden.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hammeradvancementgolden_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:hammeradvancementiron"
+}

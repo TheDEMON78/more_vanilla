@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "more_vanilla:block/endrock",
+    "bottom": "more_vanilla:block/endrock",
+    "top": "more_vanilla:block/endrock",
+    "side": "more_vanilla:block/endrock"
+  },
+  "render_type": "solid"
+}

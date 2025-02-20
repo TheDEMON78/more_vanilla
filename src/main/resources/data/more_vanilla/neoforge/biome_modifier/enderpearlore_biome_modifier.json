@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "features": "more_vanilla:enderpearlore",
+  "step": "underground_ores"
+}

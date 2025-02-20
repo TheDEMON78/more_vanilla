@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "the_boss_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:findenderiteore"
+}

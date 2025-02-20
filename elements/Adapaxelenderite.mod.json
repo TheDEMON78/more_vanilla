@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "MultiTool",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "enderite_paxel",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Enderite Adapaxel",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:TheDEMONmod"
+      }
+    ],
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 4.0,
+    "usageCount": 7500,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enderiteingot"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "AdapaxelenderiteQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "AdapaxelenderiteQuandLobjetEstFabriquefondu"
+    }
+  }
+}

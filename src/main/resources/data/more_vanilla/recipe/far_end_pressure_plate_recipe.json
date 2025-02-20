@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "category": "redstone",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:far_end_planks"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:far_end_pressure_plate",
+    "count": 1
+  }
+}

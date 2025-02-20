@@ -1,0 +1,36 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "netherite_iron_axe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Upgrade netherite iron Axe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgradenetherite"
+      }
+    ],
+    "efficiency": 9.0,
+    "attackSpeed": 2.0,
+    "enchantability": 15,
+    "damageVsEntity": 14.0,
+    "usageCount": 2050,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Upgradenetheriteironingot"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:sapphire"
+    },
+    "title": {
+      "translate": "advancements.sapphireadvancement.title"
+    },
+    "description": {
+      "translate": "advancements.sapphireadvancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sapphireadvancement_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:astart"
+}

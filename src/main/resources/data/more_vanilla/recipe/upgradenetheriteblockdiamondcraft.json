@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:upgradenetheritediamondingot"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:upgradenetheriteblockdiamond",
+    "count": 1
+  }
+}

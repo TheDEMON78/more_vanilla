@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:upgradediamondnetheriteexavator"
+    },
+    "title": {
+      "translate": "advancements.exavatoradvancementupgradediamondnetherite.title"
+    },
+    "description": {
+      "translate": "advancements.exavatoradvancementupgradediamondnetherite.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "exavatoradvancementupgradediamondnetherite_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:exavatoradvancementupgradeemerauld"
+}

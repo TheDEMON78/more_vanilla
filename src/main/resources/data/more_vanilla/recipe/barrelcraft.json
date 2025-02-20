@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:endplanks"
+    },
+    "b": {
+      "item": "more_vanilla:endslab"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:barrel",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:netherite_exavator"
+    },
+    "title": {
+      "translate": "advancements.exavatoradvancement.title"
+    },
+    "description": {
+      "translate": "advancements.exavatoradvancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "exavatoradvancement_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:exavatoradvancementdiamond"
+}

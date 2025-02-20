@@ -1,0 +1,41 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "stone_excavator",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Stone exavator",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:TheDEMONmod"
+      }
+    ],
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 4.0,
+    "usageCount": 150,
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "STONE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "StoneExavatorQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "StoneExavatorQuandLobjetEstFabriquefondu"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "WoodenexavatorQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

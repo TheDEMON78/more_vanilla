@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "more_vanilla:upgradenetheriteemerauldsword"
+  },
+  "addition": {
+    "item": "more_vanilla:upgradenetheritediamondingot"
+  },
+  "result": {
+    "id": "more_vanilla:upgradenetheritediamondsword"
+  }
+}

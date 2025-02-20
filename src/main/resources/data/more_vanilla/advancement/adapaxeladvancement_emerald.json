@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:adapaxelemerald"
+    },
+    "title": {
+      "translate": "advancements.adapaxeladvancement_emerald.title"
+    },
+    "description": {
+      "translate": "advancements.adapaxeladvancement_emerald.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adapaxeladvancement_emerald_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:adapaxeladvancementgolden"
+}

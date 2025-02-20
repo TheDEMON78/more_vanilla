@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "more_vanilla:enderitebiome",
+  "features": "more_vanilla:enderiteore",
+  "step": "underground_ores"
+}

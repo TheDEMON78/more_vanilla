@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/caveblock",
+    "up": "more_vanilla:block/caveblock",
+    "north": "more_vanilla:block/caveblock",
+    "east": "more_vanilla:block/caveblock",
+    "south": "more_vanilla:block/caveblock",
+    "west": "more_vanilla:block/caveblock",
+    "particle": "more_vanilla:block/caveblock"
+  },
+  "render_type": "translucent"
+}

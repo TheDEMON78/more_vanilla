@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "more_vanilla:block/far_end_planks",
+    "bottom": "more_vanilla:block/far_end_planks",
+    "top": "more_vanilla:block/far_end_planks",
+    "side": "more_vanilla:block/far_end_planks"
+  },
+  "render_type": "solid"
+}

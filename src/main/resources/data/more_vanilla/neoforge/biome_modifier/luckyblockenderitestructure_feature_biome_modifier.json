@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "more_vanilla:enderitebiome",
+    "end_barrens",
+    "small_end_islands"
+  ],
+  "features": "more_vanilla:luckyblockenderitestructure_feature",
+  "step": "surface_structures"
+}

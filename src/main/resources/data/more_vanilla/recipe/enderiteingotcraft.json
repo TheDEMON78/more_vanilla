@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "aab",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:enderitescrap"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:enderiteingot",
+    "count": 1
+  }
+}

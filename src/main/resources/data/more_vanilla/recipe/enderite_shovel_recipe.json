@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "item": "more_vanilla:enderiteingot"
+  },
+  "result": {
+    "id": "more_vanilla:enderite_shovel"
+  }
+}

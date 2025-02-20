@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:adapaxelupgradeemerauldnetherite"
+    },
+    "title": {
+      "translate": "advancements.adapaxeladvancementupgradeemerauldnetherite.title"
+    },
+    "description": {
+      "translate": "advancements.adapaxeladvancementupgradeemerauldnetherite.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adapaxeladvancementupgradeemerauldnetherite_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:adapaxeladvancementupgradegoldnetherite"
+}

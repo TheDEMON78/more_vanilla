@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:enddirt",
+    "more_vanilla:endgrass",
+    "more_vanilla:farendgrass",
+    "more_vanilla:farenddirt",
+    "more_vanilla:enderzonedirt",
+    "more_vanilla:enderzonegrass"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "more_vanilla:theenderitedimension": {
+    "criteria": {
+      "theenderitedimension_0": "2024-08-08 11:29:19 +0200"
+    },
+    "done": true
+  },
+  "more_vanilla:astart": {
+    "criteria": {
+      "astart_0": "2024-08-08 11:28:29 +0200"
+    },
+    "done": true
+  },
+  "more_vanilla:soontheenderitedimension": {
+    "criteria": {
+      "soontheenderitedimension_0": "2024-08-08 11:28:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-08 11:28:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-08-08 11:28:30 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3839
+}

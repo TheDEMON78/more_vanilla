@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "more_vanilla:block/ednrockslab"
+    },
+    "type=top": {
+      "model": "more_vanilla:block/ednrockslab_top"
+    },
+    "type=double": {
+      "model": "more_vanilla:block/ednrockslab_full"
+    }
+  }
+}

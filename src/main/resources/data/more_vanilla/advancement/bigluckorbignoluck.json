@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:luckyblock"
+    },
+    "title": {
+      "translate": "advancements.bigluckorbignoluck.title"
+    },
+    "description": {
+      "translate": "advancements.bigluckorbignoluck.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bigluckorbignoluck_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:luckornoluck"
+}

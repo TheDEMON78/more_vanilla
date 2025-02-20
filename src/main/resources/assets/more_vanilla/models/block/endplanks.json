@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/endplanks",
+    "up": "more_vanilla:block/endplanks",
+    "north": "more_vanilla:block/endplanks",
+    "east": "more_vanilla:block/endplanks",
+    "south": "more_vanilla:block/endplanks",
+    "west": "more_vanilla:block/endplanks",
+    "particle": "more_vanilla:block/endplanks"
+  },
+  "render_type": "solid"
+}

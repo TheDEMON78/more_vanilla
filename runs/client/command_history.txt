@@ -1,0 +1,47 @@
+/enchant Dev minecraft:sharpness 5
+/effect give @e minecraft:glowing infinite
+/effect give @e minecraft:glowing infinite 255 true
+/give Dev minecraft:structure_block
+/enchant Dev minecraft:knockback 2
+/kill @e[type= more_vanilla:bossofenderitephase1]
+/kill @e[type= more_vanilla:bossofenderitephase_2]
+/kill @e[type= more_vanilla:bossofenderitephase1]
+/kill @e[type= more_vanilla:bossofenderitephase_2]
+/kill @e[type= more_vanilla:bossofenderitephase1]
+/give Dev minecraft:structure_block
+/enchant Dev minecraft:sharpness 5
+/effect give Dev minecraft:strength infinite 10 true
+/effect give Dev minecraft:strength infinite 25 true
+/tp Dev 100 ~ ~
+/tp Dev ~100 ~ ~
+/locate biome more_vanilla:farendbiome
+/locate biome more_vanilla:enderitebiome
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:farendbiome
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:farendbiome
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:farendbiome
+/tp @s 63 68 101
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:enderitebiome
+/tp Dev ~1000 ~ ~
+/locate biome more
+/locate biome more_vanilla:enderzone
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:enderzone
+/locate biome more_vanilla:enderitebiome
+/locate biome more_vanilla:enderzone
+/locate biome more_vanilla:farendbiome
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:farendbiome
+/locate biome more_vanilla:enderzone
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:enderzone
+/tp Dev ~1000 ~ ~
+/locate biome more_vanilla:enderzone
+/tp Dev ~1000 ~ ~
+/enchant Dev minecraft:sharpness 5
+/spawnpoint
+/kill @e
+/tp Dev ~1000 ~ ~

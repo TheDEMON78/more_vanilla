@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:sapphire"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:sapphirearmor_chestplate",
+    "count": 1
+  }
+}

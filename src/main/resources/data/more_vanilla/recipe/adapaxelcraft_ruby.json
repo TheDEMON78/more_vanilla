@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "more_vanilla:rubyshovel"
+    },
+    {
+      "item": "more_vanilla:rubyaxe"
+    },
+    {
+      "item": "more_vanilla:rubypickaxe"
+    }
+  ],
+  "result": {
+    "id": "more_vanilla:adapaxelruby",
+    "count": 1
+  }
+}

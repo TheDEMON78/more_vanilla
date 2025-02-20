@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:rubyarmor_chestplate",
+    "more_vanilla:sapphirearmor_chestplate",
+    "more_vanilla:emeraldarmor_chestplate",
+    "more_vanilla:upgradenetheritediamond_chestplate",
+    "more_vanilla:upgradenetheriteemerauld_chestplate",
+    "more_vanilla:upgradenetheritegold_chestplate",
+    "more_vanilla:upgradenetheriteiron_armor_chestplate",
+    "more_vanilla:enderite_armor_chestplate"
+  ]
+}

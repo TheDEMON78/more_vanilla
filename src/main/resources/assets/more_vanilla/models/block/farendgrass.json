@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/bottomgrassfarend",
+    "up": "more_vanilla:block/mosstopfarend",
+    "north": "more_vanilla:block/mosssidefardend",
+    "east": "more_vanilla:block/mosssidefardend",
+    "south": "more_vanilla:block/mosssidefardend",
+    "west": "more_vanilla:block/mosssidefardend",
+    "particle": "more_vanilla:block/bottomgrassfarend"
+  },
+  "render_type": "solid"
+}

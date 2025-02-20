@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:endstonemodified"
+    },
+    "b": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:enderitedimension",
+    "count": 1
+  }
+}

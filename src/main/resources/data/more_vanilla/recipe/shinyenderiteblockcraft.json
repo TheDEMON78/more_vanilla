@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "b": {
+      "item": "more_vanilla:enderiteblock"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:shinyenderblock",
+    "count": 1
+  }
+}

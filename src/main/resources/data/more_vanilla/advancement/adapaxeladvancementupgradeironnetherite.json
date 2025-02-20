@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:adapaxelupgradeironnetherite"
+    },
+    "title": {
+      "translate": "advancements.adapaxeladvancementupgradeironnetherite.title"
+    },
+    "description": {
+      "translate": "advancements.adapaxeladvancementupgradeironnetherite.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adapaxeladvancementupgradeironnetherite_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:adapaxeladvancement"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "more_vanilla:emeraldshovel"
+    },
+    {
+      "item": "more_vanilla:emeraldaxe"
+    },
+    {
+      "item": "more_vanilla:emeraldpickaxe"
+    }
+  ],
+  "result": {
+    "id": "more_vanilla:adapaxelemerald",
+    "count": 1
+  }
+}

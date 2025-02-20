@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:enderzone_fence",
+    "more_vanilla:far_end_fence",
+    "more_vanilla:endbarrier",
+    "more_vanilla:endgate",
+    "more_vanilla:far_end_fence_gate",
+    "more_vanilla:enderzone_fence_gate"
+  ]
+}

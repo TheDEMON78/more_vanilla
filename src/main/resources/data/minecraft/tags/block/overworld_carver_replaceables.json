@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:enddirt",
+    "more_vanilla:enderzonedirt",
+    "more_vanilla:enderzonegrass",
+    "more_vanilla:farenddirt",
+    "minecraft:end_stone",
+    "more_vanilla:farendgrass",
+    "more_vanilla:endgrass"
+  ]
+}

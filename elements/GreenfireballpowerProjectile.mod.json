@@ -1,0 +1,33 @@
+{
+  "_fv": 73,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:Greenfireball"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.enderdragon.shoot"
+    },
+    "igniteFire": true,
+    "power": 3.0,
+    "damage": 10.0,
+    "knockback": 5,
+    "entityModel": "Default",
+    "customModelTexture": "greenfireball.png",
+    "modelWidth": 0.5,
+    "modelHeight": 0.5,
+    "onHitsBlock": {
+      "name": "GreenfireballpowerLorsqueLeProjectileToucheUnBloc"
+    },
+    "onHitsPlayer": {
+      "name": "GreenfireballpowerLorsqueLeProjectileToucheUnBloc"
+    },
+    "onHitsEntity": {
+      "name": "GreenfireballpowerLorsqueLeProjectileToucheUnBloc"
+    },
+    "onFlyingTick": {
+      "name": "GreenfireballpowerLorsqueProjectileVolantTick"
+    }
+  }
+}

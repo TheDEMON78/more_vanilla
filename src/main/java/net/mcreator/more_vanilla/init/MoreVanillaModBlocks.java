@@ -1,0 +1,138 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.more_vanilla.init;
+
+import net.neoforged.neoforge.registries.DeferredRegister;
+import net.neoforged.neoforge.registries.DeferredBlock;
+
+import net.minecraft.world.level.block.Block;
+
+import net.mcreator.more_vanilla.block.UpgradenetheriteblockironBlock;
+import net.mcreator.more_vanilla.block.UpgradenetheriteblockgoldBlock;
+import net.mcreator.more_vanilla.block.UpgradenetheriteblockemerauldBlock;
+import net.mcreator.more_vanilla.block.UpgradenetheriteblockdiamondBlock;
+import net.mcreator.more_vanilla.block.SpawnerbossBlock;
+import net.mcreator.more_vanilla.block.ShinyenderblockBlock;
+import net.mcreator.more_vanilla.block.SapphireoreBlock;
+import net.mcreator.more_vanilla.block.SapphireblockBlock;
+import net.mcreator.more_vanilla.block.RubyoreBlock;
+import net.mcreator.more_vanilla.block.RubyblockBlock;
+import net.mcreator.more_vanilla.block.PlanteofenderiteBlock;
+import net.mcreator.more_vanilla.block.NetheriteLuckyblockBlock;
+import net.mcreator.more_vanilla.block.LuckyblockBlock;
+import net.mcreator.more_vanilla.block.FarendgrassBlock;
+import net.mcreator.more_vanilla.block.FarenddirtBlock;
+import net.mcreator.more_vanilla.block.Far_endWoodBlock;
+import net.mcreator.more_vanilla.block.Far_endStairsBlock;
+import net.mcreator.more_vanilla.block.Far_endSlabBlock;
+import net.mcreator.more_vanilla.block.Far_endPressurePlateBlock;
+import net.mcreator.more_vanilla.block.Far_endPlanksBlock;
+import net.mcreator.more_vanilla.block.Far_endLogBlock;
+import net.mcreator.more_vanilla.block.Far_endLeavesBlock;
+import net.mcreator.more_vanilla.block.Far_endFenceGateBlock;
+import net.mcreator.more_vanilla.block.Far_endFenceBlock;
+import net.mcreator.more_vanilla.block.Far_endButtonBlock;
+import net.mcreator.more_vanilla.block.EndwoodBlock;
+import net.mcreator.more_vanilla.block.EndtrapedoorBlock;
+import net.mcreator.more_vanilla.block.EndstonepillarBlock;
+import net.mcreator.more_vanilla.block.EndstonemodifiedBlock;
+import net.mcreator.more_vanilla.block.EndslabBlock;
+import net.mcreator.more_vanilla.block.EndrockstairsBlock;
+import net.mcreator.more_vanilla.block.EndrockBlock;
+import net.mcreator.more_vanilla.block.EndplanksstairsBlock;
+import net.mcreator.more_vanilla.block.EndplanksBlock;
+import net.mcreator.more_vanilla.block.EndleavesBlock;
+import net.mcreator.more_vanilla.block.EndgrassBlock;
+import net.mcreator.more_vanilla.block.EndgateBlock;
+import net.mcreator.more_vanilla.block.EnderzonegrassBlock;
+import net.mcreator.more_vanilla.block.EnderzonedirtBlock;
+import net.mcreator.more_vanilla.block.EnderzoneWoodBlock;
+import net.mcreator.more_vanilla.block.EnderzoneStairsBlock;
+import net.mcreator.more_vanilla.block.EnderzoneSlabBlock;
+import net.mcreator.more_vanilla.block.EnderzonePressurePlateBlock;
+import net.mcreator.more_vanilla.block.EnderzonePlanksBlock;
+import net.mcreator.more_vanilla.block.EnderzoneLogBlock;
+import net.mcreator.more_vanilla.block.EnderzoneLeavesBlock;
+import net.mcreator.more_vanilla.block.EnderzoneFenceGateBlock;
+import net.mcreator.more_vanilla.block.EnderzoneFenceBlock;
+import net.mcreator.more_vanilla.block.EnderzoneButtonBlock;
+import net.mcreator.more_vanilla.block.EnderpearloreBlock;
+import net.mcreator.more_vanilla.block.EnderiteoreBlock;
+import net.mcreator.more_vanilla.block.EnderitedimensionPortalBlock;
+import net.mcreator.more_vanilla.block.EnderiteblockBlock;
+import net.mcreator.more_vanilla.block.EnddirtBlock;
+import net.mcreator.more_vanilla.block.EndbarrierBlock;
+import net.mcreator.more_vanilla.block.EmeraldoreBlock;
+import net.mcreator.more_vanilla.block.EdnrockslabBlock;
+import net.mcreator.more_vanilla.block.EauregeneranteBlock;
+import net.mcreator.more_vanilla.block.CaveblockBlock;
+import net.mcreator.more_vanilla.block.BarrelBlock;
+import net.mcreator.more_vanilla.MoreVanillaMod;
+
+public class MoreVanillaModBlocks {
+	public static final DeferredRegister.Blocks REGISTRY = DeferredRegister.createBlocks(MoreVanillaMod.MODID);
+	public static final DeferredBlock<Block> EAUREGENERANTE = REGISTRY.register("eauregenerante", EauregeneranteBlock::new);
+	public static final DeferredBlock<Block> ENDERITEORE = REGISTRY.register("enderiteore", EnderiteoreBlock::new);
+	public static final DeferredBlock<Block> ENDERITEBLOCK = REGISTRY.register("enderiteblock", EnderiteblockBlock::new);
+	public static final DeferredBlock<Block> ENDERPEARLORE = REGISTRY.register("enderpearlore", EnderpearloreBlock::new);
+	public static final DeferredBlock<Block> CAVEBLOCK = REGISTRY.register("caveblock", CaveblockBlock::new);
+	public static final DeferredBlock<Block> PLANTEOFENDERITE = REGISTRY.register("planteofenderite", PlanteofenderiteBlock::new);
+	public static final DeferredBlock<Block> ENDSTONEMODIFIED = REGISTRY.register("endstonemodified", EndstonemodifiedBlock::new);
+	public static final DeferredBlock<Block> ENDERITEDIMENSION_PORTAL = REGISTRY.register("enderitedimension_portal", EnderitedimensionPortalBlock::new);
+	public static final DeferredBlock<Block> LUCKYBLOCK = REGISTRY.register("luckyblock", LuckyblockBlock::new);
+	public static final DeferredBlock<Block> NETHERITE_LUCKYBLOCK = REGISTRY.register("netherite_luckyblock", NetheriteLuckyblockBlock::new);
+	public static final DeferredBlock<Block> UPGRADENETHERITEBLOCKIRON = REGISTRY.register("upgradenetheriteblockiron", UpgradenetheriteblockironBlock::new);
+	public static final DeferredBlock<Block> UPGRADENETHERITEBLOCKGOLD = REGISTRY.register("upgradenetheriteblockgold", UpgradenetheriteblockgoldBlock::new);
+	public static final DeferredBlock<Block> UPGRADENETHERITEBLOCKEMERAULD = REGISTRY.register("upgradenetheriteblockemerauld", UpgradenetheriteblockemerauldBlock::new);
+	public static final DeferredBlock<Block> UPGRADENETHERITEBLOCKDIAMOND = REGISTRY.register("upgradenetheriteblockdiamond", UpgradenetheriteblockdiamondBlock::new);
+	public static final DeferredBlock<Block> RUBYORE = REGISTRY.register("rubyore", RubyoreBlock::new);
+	public static final DeferredBlock<Block> SAPPHIREORE = REGISTRY.register("sapphireore", SapphireoreBlock::new);
+	public static final DeferredBlock<Block> RUBYBLOCK = REGISTRY.register("rubyblock", RubyblockBlock::new);
+	public static final DeferredBlock<Block> SAPPHIREBLOCK = REGISTRY.register("sapphireblock", SapphireblockBlock::new);
+	public static final DeferredBlock<Block> EMERALDORE = REGISTRY.register("emeraldore", EmeraldoreBlock::new);
+	public static final DeferredBlock<Block> ENDGRASS = REGISTRY.register("endgrass", EndgrassBlock::new);
+	public static final DeferredBlock<Block> SHINYENDERBLOCK = REGISTRY.register("shinyenderblock", ShinyenderblockBlock::new);
+	public static final DeferredBlock<Block> ENDSTONECOMPACT = REGISTRY.register("endstonecompact", EndstonepillarBlock::new);
+	public static final DeferredBlock<Block> ENDWOOD = REGISTRY.register("endwood", EndwoodBlock::new);
+	public static final DeferredBlock<Block> ENDPLANKS = REGISTRY.register("endplanks", EndplanksBlock::new);
+	public static final DeferredBlock<Block> ENDLEAVES = REGISTRY.register("endleaves", EndleavesBlock::new);
+	public static final DeferredBlock<Block> ENDROCK = REGISTRY.register("endrock", EndrockBlock::new);
+	public static final DeferredBlock<Block> BARREL = REGISTRY.register("barrel", BarrelBlock::new);
+	public static final DeferredBlock<Block> ENDSLAB = REGISTRY.register("endslab", EndslabBlock::new);
+	public static final DeferredBlock<Block> EDNROCKSLAB = REGISTRY.register("ednrockslab", EdnrockslabBlock::new);
+	public static final DeferredBlock<Block> ENDPLANKSSTAIRS = REGISTRY.register("endplanksstairs", EndplanksstairsBlock::new);
+	public static final DeferredBlock<Block> ENDROCKSTAIRS = REGISTRY.register("endrockstairs", EndrockstairsBlock::new);
+	public static final DeferredBlock<Block> ENDBARRIER = REGISTRY.register("endbarrier", EndbarrierBlock::new);
+	public static final DeferredBlock<Block> ENDGATE = REGISTRY.register("endgate", EndgateBlock::new);
+	public static final DeferredBlock<Block> ENDDIRT = REGISTRY.register("enddirt", EnddirtBlock::new);
+	public static final DeferredBlock<Block> ENDTRAPEDOOR = REGISTRY.register("endtrapedoor", EndtrapedoorBlock::new);
+	public static final DeferredBlock<Block> SPAWNERBOSS = REGISTRY.register("spawnerboss", SpawnerbossBlock::new);
+	public static final DeferredBlock<Block> FAR_END_WOOD = REGISTRY.register("far_end_wood", Far_endWoodBlock::new);
+	public static final DeferredBlock<Block> FAR_END_LOG = REGISTRY.register("far_end_log", Far_endLogBlock::new);
+	public static final DeferredBlock<Block> FAR_END_PLANKS = REGISTRY.register("far_end_planks", Far_endPlanksBlock::new);
+	public static final DeferredBlock<Block> FAR_END_LEAVES = REGISTRY.register("far_end_leaves", Far_endLeavesBlock::new);
+	public static final DeferredBlock<Block> FAR_END_STAIRS = REGISTRY.register("far_end_stairs", Far_endStairsBlock::new);
+	public static final DeferredBlock<Block> FAR_END_SLAB = REGISTRY.register("far_end_slab", Far_endSlabBlock::new);
+	public static final DeferredBlock<Block> FAR_END_FENCE = REGISTRY.register("far_end_fence", Far_endFenceBlock::new);
+	public static final DeferredBlock<Block> FAR_END_FENCE_GATE = REGISTRY.register("far_end_fence_gate", Far_endFenceGateBlock::new);
+	public static final DeferredBlock<Block> FAR_END_PRESSURE_PLATE = REGISTRY.register("far_end_pressure_plate", Far_endPressurePlateBlock::new);
+	public static final DeferredBlock<Block> FAR_END_BUTTON = REGISTRY.register("far_end_button", Far_endButtonBlock::new);
+	public static final DeferredBlock<Block> FARENDGRASS = REGISTRY.register("farendgrass", FarendgrassBlock::new);
+	public static final DeferredBlock<Block> FARENDDIRT = REGISTRY.register("farenddirt", FarenddirtBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_WOOD = REGISTRY.register("enderzone_wood", EnderzoneWoodBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_LOG = REGISTRY.register("enderzone_log", EnderzoneLogBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_PLANKS = REGISTRY.register("enderzone_planks", EnderzonePlanksBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_LEAVES = REGISTRY.register("enderzone_leaves", EnderzoneLeavesBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_STAIRS = REGISTRY.register("enderzone_stairs", EnderzoneStairsBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_SLAB = REGISTRY.register("enderzone_slab", EnderzoneSlabBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_FENCE = REGISTRY.register("enderzone_fence", EnderzoneFenceBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_FENCE_GATE = REGISTRY.register("enderzone_fence_gate", EnderzoneFenceGateBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_PRESSURE_PLATE = REGISTRY.register("enderzone_pressure_plate", EnderzonePressurePlateBlock::new);
+	public static final DeferredBlock<Block> ENDERZONE_BUTTON = REGISTRY.register("enderzone_button", EnderzoneButtonBlock::new);
+	public static final DeferredBlock<Block> ENDERZONEDIRT = REGISTRY.register("enderzonedirt", EnderzonedirtBlock::new);
+	public static final DeferredBlock<Block> ENDERZONEGRASS = REGISTRY.register("enderzonegrass", EnderzonegrassBlock::new);
+	// Start of user code block custom blocks
+	// End of user code block custom blocks
+}

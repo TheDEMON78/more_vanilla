@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "more_vanilla:upgradebiome",
+  "spawners": {
+    "type": "more_vanilla:upgradeironboss",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

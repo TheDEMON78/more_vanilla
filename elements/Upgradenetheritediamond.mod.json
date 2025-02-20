@@ -1,0 +1,80 @@
+{
+  "_fv": 73,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "netherite_diamond_helmet",
+    "enableBody": true,
+    "textureBody": "netherite_diamond_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "netherite_diamond_leggings",
+    "enableBoots": true,
+    "textureBoots": "netherite_diamond_boots",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgradenetherite"
+      }
+    ],
+    "armorTextureFile": "netherite_diamond_",
+    "helmetName": "Upgrade netherite diamond Helmet",
+    "bodyName": "Upgrade netherite diamond Chestplate",
+    "leggingsName": "Upgrade netherite diamond Leggings",
+    "bootsName": "Upgrade netherite diamond Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 42,
+    "damageValueHelmet": 4,
+    "damageValueBody": 8,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 4,
+    "enchantability": 14,
+    "toughness": 0.2,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Upgradenetheritediamondingot"
+      }
+    ]
+  }
+}

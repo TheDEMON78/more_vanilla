@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/ender_block",
+    "up": "more_vanilla:block/enderite_ore_top",
+    "north": "more_vanilla:block/lucky_block",
+    "east": "more_vanilla:block/enderite_block",
+    "south": "more_vanilla:block/jungle_moss_top",
+    "west": "more_vanilla:block/enderite_ore_side",
+    "particle": "more_vanilla:block/ender_block"
+  },
+  "render_type": "solid"
+}

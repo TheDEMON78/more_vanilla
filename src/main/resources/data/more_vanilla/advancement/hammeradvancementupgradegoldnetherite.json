@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:upgradegoldnetheritehammer"
+    },
+    "title": {
+      "translate": "advancements.hammeradvancementupgradegoldnetherite.title"
+    },
+    "description": {
+      "translate": "advancements.hammeradvancementupgradegoldnetherite.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hammeradvancementupgradegoldnetherite_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:hammeradvancementupgradeironnetherite"
+}

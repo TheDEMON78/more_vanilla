@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/bottomgrass",
+    "up": "more_vanilla:block/crystal_moss_top",
+    "north": "more_vanilla:block/crystal_moss_side",
+    "east": "more_vanilla:block/crystal_moss_side",
+    "south": "more_vanilla:block/crystal_moss_side",
+    "west": "more_vanilla:block/crystal_moss_side",
+    "particle": "more_vanilla:block/bottomgrass"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:planteofenderite"
+    },
+    "title": {
+      "translate": "advancements.thebigchance.title"
+    },
+    "description": {
+      "translate": "advancements.thebigchance.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thebigchance_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:thechance"
+}

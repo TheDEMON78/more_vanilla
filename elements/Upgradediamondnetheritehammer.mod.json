@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "upgradediamondnetherite_hammer",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Upgrade diamond netherite hammer",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgradenetherite"
+      }
+    ],
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 4.0,
+    "usageCount": 2400,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Upgradenetheritediamondingot"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "UpgradediamondnetheritehammerQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "UpgradediamondnetheritehammerQuandLobjetEstFabriquefondu"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "WoodenhammerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

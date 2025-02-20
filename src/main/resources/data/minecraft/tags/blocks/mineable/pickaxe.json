@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "more_vanilla:endrockstairs",
+    "more_vanilla:ednrockslab",
+    "more_vanilla:endrock",
+    "more_vanilla:endstonecompact",
+    "more_vanilla:shinyenderblock",
+    "more_vanilla:emeraldore",
+    "more_vanilla:sapphireore",
+    "more_vanilla:rubyore",
+    "more_vanilla:upgradenetheriteblockdiamond",
+    "more_vanilla:upgradenetheriteblockemerauld",
+    "more_vanilla:upgradenetheriteblockgold",
+    "more_vanilla:upgradenetheriteblockiron",
+    "more_vanilla:caveblock",
+    "more_vanilla:enderpearlore",
+    "more_vanilla:enderiteblock",
+    "more_vanilla:enderiteore"
+  ]
+}

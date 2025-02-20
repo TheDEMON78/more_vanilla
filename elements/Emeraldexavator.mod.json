@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "emerald_exavator",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Emerald exavator",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Moregems"
+      }
+    ],
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 1750,
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "DIAMOND",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "EmeraldexavatorLorsqueLoutilEstDansLaMain"
+    },
+    "onItemInUseTick": {
+      "name": "EmeraldexavatorLorsqueLoutilEstDansLaMain"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "WoodenexavatorQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

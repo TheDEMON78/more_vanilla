@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "more_vanilla:upgradenetheriteironingot"
+  },
+  "result": {
+    "id": "more_vanilla:upgradenetheriteiron_pickaxe"
+  }
+}

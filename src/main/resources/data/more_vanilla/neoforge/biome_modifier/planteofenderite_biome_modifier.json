@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "more_vanilla:enderitebiome",
+    "more_vanilla:farendbiome",
+    "end_barrens",
+    "end_highlands",
+    "end_midlands",
+    "small_end_islands",
+    "the_end"
+  ],
+  "features": "more_vanilla:planteofenderite",
+  "step": "vegetal_decoration"
+}

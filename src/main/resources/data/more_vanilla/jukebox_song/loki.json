@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.more_vanilla.loki.desc"
+  },
+  "length_in_seconds": 0.05,
+  "sound_event": "more_vanilla:loki"
+}

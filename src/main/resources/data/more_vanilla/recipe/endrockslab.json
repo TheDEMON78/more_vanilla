@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_vanilla:endrock"
+    }
+  },
+  "result": {
+    "id": "more_vanilla:ednrockslab",
+    "count": 6
+  }
+}

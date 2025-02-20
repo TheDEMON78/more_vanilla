@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.more_vanilla.nohunger"
+  },
+  "supported_items": "#minecraft:head_armor",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "head"
+  ],
+  "exclusive_set": []
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:netherite_luckyblock"
+    },
+    "title": {
+      "translate": "advancements.luckornoluck.title"
+    },
+    "description": {
+      "translate": "advancements.luckornoluck.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "luckornoluck_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:astart"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/lucky_block_netherite",
+    "up": "more_vanilla:block/lucky_block_netherite",
+    "north": "more_vanilla:block/lucky_block_netherite",
+    "east": "more_vanilla:block/lucky_block_netherite",
+    "south": "more_vanilla:block/lucky_block_netherite",
+    "west": "more_vanilla:block/lucky_block_netherite",
+    "particle": "more_vanilla:block/lucky_block_netherite"
+  },
+  "render_type": "solid"
+}

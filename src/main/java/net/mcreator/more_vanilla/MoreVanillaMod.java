@@ -1,0 +1,108 @@
+package net.mcreator.more_vanilla;
+
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+
+import net.neoforged.neoforge.network.registration.PayloadRegistrar;
+import net.neoforged.neoforge.network.handling.IPayloadHandler;
+import net.neoforged.neoforge.network.event.RegisterPayloadHandlersEvent;
+import net.neoforged.neoforge.event.tick.ServerTickEvent;
+import net.neoforged.neoforge.common.NeoForge;
+import net.neoforged.fml.util.thread.SidedThreadGroups;
+import net.neoforged.fml.common.Mod;
+import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.bus.api.IEventBus;
+
+import net.minecraft.util.Tuple;
+import net.minecraft.network.protocol.common.custom.CustomPacketPayload;
+import net.minecraft.network.codec.StreamCodec;
+import net.minecraft.network.FriendlyByteBuf;
+
+import net.mcreator.more_vanilla.world.features.StructureFeature;
+import net.mcreator.more_vanilla.init.MoreVanillaModTabs;
+import net.mcreator.more_vanilla.init.MoreVanillaModSounds;
+import net.mcreator.more_vanilla.init.MoreVanillaModParticleTypes;
+import net.mcreator.more_vanilla.init.MoreVanillaModMenus;
+import net.mcreator.more_vanilla.init.MoreVanillaModItems;
+import net.mcreator.more_vanilla.init.MoreVanillaModFluids;
+import net.mcreator.more_vanilla.init.MoreVanillaModFluidTypes;
+import net.mcreator.more_vanilla.init.MoreVanillaModEntities;
+import net.mcreator.more_vanilla.init.MoreVanillaModBlocks;
+import net.mcreator.more_vanilla.init.MoreVanillaModBlockEntities;
+
+import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.Map;
+import java.util.List;
+import java.util.HashMap;
+import java.util.Collection;
+import java.util.ArrayList;
+
+@Mod("more_vanilla")
+public class MoreVanillaMod {
+	public static final Logger LOGGER = LogManager.getLogger(MoreVanillaMod.class);
+	public static final String MODID = "more_vanilla";
+
+	public MoreVanillaMod(IEventBus modEventBus) {
+		// Start of user code block mod constructor
+		// End of user code block mod constructor
+		NeoForge.EVENT_BUS.register(this);
+		modEventBus.addListener(this::registerNetworking);
+		MoreVanillaModSounds.REGISTRY.register(modEventBus);
+		MoreVanillaModBlocks.REGISTRY.register(modEventBus);
+		MoreVanillaModBlockEntities.REGISTRY.register(modEventBus);
+		MoreVanillaModItems.REGISTRY.register(modEventBus);
+		MoreVanillaModEntities.REGISTRY.register(modEventBus);
+		MoreVanillaModTabs.REGISTRY.register(modEventBus);
+
+		StructureFeature.REGISTRY.register(modEventBus);
+
+		MoreVanillaModMenus.REGISTRY.register(modEventBus);
+		MoreVanillaModParticleTypes.REGISTRY.register(modEventBus);
+
+		MoreVanillaModFluids.REGISTRY.register(modEventBus);
+		MoreVanillaModFluidTypes.REGISTRY.register(modEventBus);
+
+		// Start of user code block mod init
+		// End of user code block mod init
+	}
+
+	// Start of user code block mod methods
+	// End of user code block mod methods
+	private static boolean networkingRegistered = false;
+	private static final Map<CustomPacketPayload.Type<?>, NetworkMessage<?>> MESSAGES = new HashMap<>();
+
+	private record NetworkMessage<T extends CustomPacketPayload>(StreamCodec<? extends FriendlyByteBuf, T> reader, IPayloadHandler<T> handler) {
+	}
+
+	public static <T extends CustomPacketPayload> void addNetworkMessage(CustomPacketPayload.Type<T> id, StreamCodec<? extends FriendlyByteBuf, T> reader, IPayloadHandler<T> handler) {
+		if (networkingRegistered)
+			throw new IllegalStateException("Cannot register new network messages after networking has been registered");
+		MESSAGES.put(id, new NetworkMessage<>(reader, handler));
+	}
+
+	@SuppressWarnings({"rawtypes", "unchecked"})
+	private void registerNetworking(final RegisterPayloadHandlersEvent event) {
+		final PayloadRegistrar registrar = event.registrar(MODID);
+		MESSAGES.forEach((id, networkMessage) -> registrar.playBidirectional(id, ((NetworkMessage) networkMessage).reader(), ((NetworkMessage) networkMessage).handler()));
+		networkingRegistered = true;
+	}
+
+	private static final Collection<Tuple<Runnable, Integer>> workQueue = new ConcurrentLinkedQueue<>();
+
+	public static void queueServerWork(int tick, Runnable action) {
+		if (Thread.currentThread().getThreadGroup() == SidedThreadGroups.SERVER)
+			workQueue.add(new Tuple<>(action, tick));
+	}
+
+	@SubscribeEvent
+	public void tick(ServerTickEvent.Post event) {
+		List<Tuple<Runnable, Integer>> actions = new ArrayList<>();
+		workQueue.forEach(work -> {
+			work.setB(work.getB() - 1);
+			if (work.getB() == 0)
+				actions.add(work);
+		});
+		actions.forEach(e -> e.getA().run());
+		workQueue.removeAll(actions);
+	}
+}

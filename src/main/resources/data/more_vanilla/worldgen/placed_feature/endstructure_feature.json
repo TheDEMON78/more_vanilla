@@ -1,0 +1,57 @@
+{
+  "feature": "more_vanilla:endstructure_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 100
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 63
+        },
+        "max_inclusive": {
+          "below_top": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:surface_relative_threshold_filter",
+      "heightmap": "OCEAN_FLOOR_WG",
+      "min_inclusive": 8,
+      "max_inclusive": 80
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "more_vanilla:enderiteore",
+          "more_vanilla:enderpearlore",
+          "more_vanilla:endgrass",
+          "more_vanilla:shinyenderblock",
+          "more_vanilla:endstonecompact",
+          "minecraft:end_stone",
+          "minecraft:end_stone_bricks",
+          "minecraft:end_stone_brick_stairs",
+          "minecraft:end_stone_brick_slab",
+          "minecraft:end_stone_brick_wall",
+          "more_vanilla:enddirt"
+        ],
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

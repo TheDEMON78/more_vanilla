@@ -1,0 +1,42 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "MultiTool",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "upgradediamondnetherite_paxel",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Upgrade diamond netherite Adapaxel",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Upgradenetherite"
+      }
+    ],
+    "efficiency": 9.5,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 6600,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Upgradenetheritediamondingot"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "AdapaxelupgradediamondnetheriteQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "AdapaxelupgradediamondnetheriteQuandLobjetEstFabriquefondu"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "particle": "more_vanilla:block/far_end_planks",
+    "texture": "more_vanilla:block/far_end_planks"
+  },
+  "render_type": "solid"
+}

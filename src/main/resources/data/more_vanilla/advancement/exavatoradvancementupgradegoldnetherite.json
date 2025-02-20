@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:upgradegoldnetheriteexavator"
+    },
+    "title": {
+      "translate": "advancements.exavatoradvancementupgradegoldnetherite.title"
+    },
+    "description": {
+      "translate": "advancements.exavatoradvancementupgradegoldnetherite.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "exavatoradvancementupgradegoldnetherite_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:exavatoradvencementupgradeironnetherite"
+}

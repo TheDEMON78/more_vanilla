@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:adapaxelruby"
+    },
+    "title": {
+      "translate": "advancements.adapaxeladvancement_ruby.title"
+    },
+    "description": {
+      "translate": "advancements.adapaxeladvancement_ruby.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adapaxeladvancement_ruby_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:adapaxeladvancementgolden"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "more_vanilla:block/flower_of_enderite",
+    "particle": "more_vanilla:block/flower_of_enderite"
+  },
+  "render_type": "cutout"
+}

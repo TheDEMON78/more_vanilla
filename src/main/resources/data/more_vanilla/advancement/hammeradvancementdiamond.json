@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:diamondhammer"
+    },
+    "title": {
+      "translate": "advancements.hammeradvancementdiamond.title"
+    },
+    "description": {
+      "translate": "advancements.hammeradvancementdiamond.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hammeradvancementdiamond_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1330
+  },
+  "parent": "more_vanilla:hammeradvancementgolden"
+}

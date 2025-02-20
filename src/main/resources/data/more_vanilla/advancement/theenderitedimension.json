@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:enderitedimension"
+    },
+    "title": {
+      "translate": "advancements.theenderitedimension.title"
+    },
+    "description": {
+      "translate": "advancements.theenderitedimension.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "theenderitedimension_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:soontheenderitedimension"
+}

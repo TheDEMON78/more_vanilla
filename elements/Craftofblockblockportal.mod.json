@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      },
+      {
+        "value": "CUSTOM:Enderitescrap"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Endstonemodified"
+    },
+    "name": "craftofblockblockportal",
+    "namespace": "mod"
+  }
+}

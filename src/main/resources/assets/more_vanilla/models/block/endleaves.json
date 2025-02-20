@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_vanilla:block/blue_vine_lantern",
+    "particle": "more_vanilla:block/blue_vine_lantern"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "jungle",
+    "more_vanilla:enderitebiome"
+  ],
+  "features": "more_vanilla:eauregenerante_feature",
+  "step": "lakes"
+}

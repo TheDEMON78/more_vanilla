@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/endrock",
+    "up": "more_vanilla:block/endrock",
+    "north": "more_vanilla:block/endrock",
+    "east": "more_vanilla:block/endrock",
+    "south": "more_vanilla:block/endrock",
+    "west": "more_vanilla:block/endrock",
+    "particle": "more_vanilla:block/endrock"
+  },
+  "render_type": "solid"
+}

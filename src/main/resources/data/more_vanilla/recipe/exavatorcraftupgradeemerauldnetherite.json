@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "more_vanilla:upgradegoldnetheriteexavator"
+  },
+  "addition": {
+    "item": "more_vanilla:upgradenetheriteemerauldingot"
+  },
+  "result": {
+    "id": "more_vanilla:upgradeemerauldnetheriteexavator"
+  }
+}

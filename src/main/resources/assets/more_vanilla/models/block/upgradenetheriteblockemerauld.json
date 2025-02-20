@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/netherite_emerald_block",
+    "up": "more_vanilla:block/netherite_emerald_block",
+    "north": "more_vanilla:block/netherite_emerald_block",
+    "east": "more_vanilla:block/netherite_emerald_block",
+    "south": "more_vanilla:block/netherite_emerald_block",
+    "west": "more_vanilla:block/netherite_emerald_block",
+    "particle": "more_vanilla:block/netherite_emerald_block"
+  },
+  "render_type": "solid"
+}

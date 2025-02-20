@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "more_vanilla:adapaxelupgradeironnetherite"
+  },
+  "addition": {
+    "item": "more_vanilla:upgradenetheritegoldingot"
+  },
+  "result": {
+    "id": "more_vanilla:adapaxelupgradegoldnetherite"
+  }
+}

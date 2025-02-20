@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/end_stonemodiffied",
+    "up": "more_vanilla:block/end_stonemodiffied",
+    "north": "more_vanilla:block/end_stonemodiffied",
+    "east": "more_vanilla:block/end_stonemodiffied",
+    "south": "more_vanilla:block/end_stonemodiffied",
+    "west": "more_vanilla:block/end_stonemodiffied",
+    "particle": "more_vanilla:block/end_stonemodiffied"
+  },
+  "render_type": "solid"
+}

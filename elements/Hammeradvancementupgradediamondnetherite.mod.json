@@ -1,0 +1,24 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Upgrade diamond netherite Hammer",
+    "achievementDescription": "Craft the ultimate Hammer",
+    "achievementIcon": {
+      "value": "CUSTOM:Upgradediamondnetheritehammer"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 1330,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Hammeradvancementupgradeemerauldnetherite"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

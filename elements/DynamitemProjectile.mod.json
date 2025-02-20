@@ -1,0 +1,27 @@
+{
+  "_fv": 73,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:Dynamite"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "entity.tnt.primed"
+    },
+    "igniteFire": false,
+    "power": 0.5,
+    "damage": 1.0,
+    "knockback": 1,
+    "entityModel": "Default",
+    "customModelTexture": "dynamite.png",
+    "modelWidth": 0.5,
+    "modelHeight": 0.5,
+    "onHitsBlock": {
+      "name": "Dyamitetouchblock"
+    },
+    "onHitsEntity": {
+      "name": "Dyamitetouchblock"
+    }
+  }
+}

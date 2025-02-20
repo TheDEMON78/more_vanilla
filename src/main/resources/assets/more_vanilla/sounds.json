@@ -1,0 +1,20 @@
+{
+  "loki": {
+    "subtitle": "subtitles.loki",
+    "sounds": [
+      {
+        "name": "more_vanilla:loki",
+        "stream": true
+      }
+    ]
+  },
+  "battle": {
+    "subtitle": "subtitles.battle",
+    "sounds": [
+      {
+        "name": "more_vanilla:dauntless-ost-_unreleased_-danger-100-theme",
+        "stream": false
+      }
+    ]
+  }
+}

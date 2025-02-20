@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/end_lotus_barrel_bottom",
+    "up": "more_vanilla:block/end_lotus_barrel_top",
+    "north": "more_vanilla:block/end_lotus_barrel_side",
+    "east": "more_vanilla:block/end_lotus_barrel_side",
+    "south": "more_vanilla:block/end_lotus_barrel_side",
+    "west": "more_vanilla:block/end_lotus_barrel_side",
+    "particle": "more_vanilla:block/end_lotus_barrel_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/bottomenderzone",
+    "up": "more_vanilla:block/topenderzone",
+    "north": "more_vanilla:block/sideenderzone",
+    "east": "more_vanilla:block/sideenderzone",
+    "south": "more_vanilla:block/sideenderzone",
+    "west": "more_vanilla:block/sideenderzone",
+    "particle": "more_vanilla:block/bottomenderzone"
+  },
+  "render_type": "solid"
+}

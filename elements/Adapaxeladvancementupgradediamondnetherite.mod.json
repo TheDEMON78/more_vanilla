@@ -1,0 +1,24 @@
+{
+  "_fv": 73,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Upgrade diamond netherite Adapaxel",
+    "achievementDescription": "Craft the ultimate Adapaxel",
+    "achievementIcon": {
+      "value": "CUSTOM:Adapaxelupgradediamondnetherite"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 1330,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Adapaxeladvancementupgradeemerauldnetherite"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "more_vanilla:enderiteore"
+    },
+    "title": {
+      "translate": "advancements.findenderiteore.title"
+    },
+    "description": {
+      "translate": "advancements.findenderiteore.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "findenderiteore_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "more_vanilla:astart"
+}
