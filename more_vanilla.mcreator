@@ -7142,6 +7142,40 @@
           }
         ]
       }
+    },
+    {
+      "name": "Zoneeffet",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneeffet",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/more_vanilla/procedures/ZoneeffetProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Healaura",
+      "type": "enchantment",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "healaura",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_vanilla/enchantment/healaura.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -7267,6 +7301,7 @@
       "~CUSTOM:Adapaxel"
     ],
     "ENCHANTMENTS:minecraft:on_random_loot": [
+      "~CUSTOM:Healaura",
       "~CUSTOM:Nohunger",
       "~CUSTOM:Voldevie"
     ],
@@ -7301,6 +7336,7 @@
       "~CUSTOM:Rubyore"
     ],
     "ENCHANTMENTS:minecraft:non_treasure": [
+      "~CUSTOM:Healaura",
       "~CUSTOM:Nohunger",
       "~CUSTOM:Voldevie"
     ],
@@ -7358,6 +7394,7 @@
       "~CUSTOM:Loki"
     ],
     "ENCHANTMENTS:minecraft:tradeable": [
+      "~CUSTOM:Healaura",
       "~CUSTOM:Nohunger",
       "~CUSTOM:Voldevie"
     ],
@@ -7801,6 +7838,7 @@
       "item.more_vanilla.emeraldsword": "Epée en Emeraude",
       "item.more_vanilla.sapphireexavator": "Excavateur en Sapphire",
       "advancements.adapaxeladvancementstone.title": "Adapaxel en pierre",
+      "enchantment.more_vanilla.healaura": "Heal aura",
       "advancements.adapaxeladvancement_sapphire.descr": "Crafter la paxel ultime",
       "advancements.adapaxeladvancementupgradediamondnetherite.descr": "Crafter la paxel ultime",
       "advancements.hammeradvancementiron.title": "Hammer en fer",
@@ -8145,6 +8183,7 @@
       "item.more_vanilla.emeraldsword": "Emerald Sword",
       "item.more_vanilla.sapphireexavator": "Sapphire exavator",
       "advancements.adapaxeladvancementstone.title": "Stone Adapaxel",
+      "enchantment.more_vanilla.healaura": "Heal aura",
       "advancements.adapaxeladvancement_sapphire.descr": "Craft the ultimate Adapaxel",
       "advancements.adapaxeladvancementupgradediamondnetherite.descr": "Craft the ultimate Adapaxel",
       "advancements.hammeradvancementiron.title": "Iron Hammer",
@@ -8489,6 +8528,7 @@
       "item.more_vanilla.emeraldsword": "Epée en Emeraude",
       "item.more_vanilla.sapphireexavator": "Excavateur en Sapphire",
       "advancements.adapaxeladvancementstone.title": "Adapaxel en pierre",
+      "enchantment.more_vanilla.healaura": "Heal aura",
       "advancements.adapaxeladvancement_sapphire.descr": "Crafter la paxel ultime",
       "advancements.adapaxeladvancementupgradediamondnetherite.descr": "Crafter la paxel ultime",
       "advancements.hammeradvancementiron.title": "Hammer en fer",
