@@ -14,6 +14,7 @@ import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.tags.EntityTypeTags;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.resources.ResourceKey;
@@ -45,10 +46,12 @@ public class ZoneeffetProcedure {
 				final Vec3 _center = new Vec3((entity.getX()), (entity.getY()), (entity.getZ()));
 				List<Entity> _entfound = world.getEntitiesOfClass(Entity.class, new AABB(_center, _center).inflate(4 / 2d), e -> true).stream().sorted(Comparator.comparingDouble(_entcnd -> _entcnd.distanceToSqr(_center))).toList();
 				for (Entity entityiterator : _entfound) {
-					if (entityiterator instanceof LivingEntity _entity && !_entity.level().isClientSide())
-						_entity.addEffect(new MobEffectInstance(MobEffects.REGENERATION, 60, 1, false, false));
-					if (world instanceof ServerLevel _level)
-						_level.sendParticles(ParticleTypes.HAPPY_VILLAGER, (entityiterator.getX()), (entityiterator.getY()), (entityiterator.getZ()), 1, 3, 3, 3, 1);
+					if (!entityiterator.getType().is(EntityTypeTags.UNDEAD) && !entityiterator.getType().is(EntityTypeTags.ARTHROPOD) && !entityiterator.getType().is(EntityTypeTags.ILLAGER) && !entityiterator.getType().is(EntityTypeTags.AQUATIC)) {
+						if (entityiterator instanceof LivingEntity _entity && !_entity.level().isClientSide())
+							_entity.addEffect(new MobEffectInstance(MobEffects.REGENERATION, 300, 1, false, false));
+						if (world instanceof ServerLevel _level)
+							_level.sendParticles(ParticleTypes.HAPPY_VILLAGER, (entityiterator.getX()), (entityiterator.getY()), (entityiterator.getZ()), 1, 3, 3, 3, 1);
+					}
 				}
 			}
 		}

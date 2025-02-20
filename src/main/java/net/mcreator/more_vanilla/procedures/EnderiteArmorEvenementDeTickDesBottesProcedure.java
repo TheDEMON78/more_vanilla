@@ -10,8 +10,8 @@ public class EnderiteArmorEvenementDeTickDesBottesProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 60, 1, false, false));
+			_entity.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 300, 1, false, false));
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(MobEffects.JUMP, 60, 1, false, false));
+			_entity.addEffect(new MobEffectInstance(MobEffects.JUMP, 300, 1, false, false));
 	}
 }
