@@ -7198,6 +7198,9 @@
     }
   ],
   "tag_elements": {
+    "BLOCKS:minecraft:replaceable": [
+      "~CUSTOM:Eauregenerante"
+    ],
     "ITEMS:minecraft:chest_armor": [
       "~CUSTOM:Rubyarmor.body",
       "~CUSTOM:Sapphirearmor.body",
@@ -7207,9 +7210,6 @@
       "~CUSTOM:Upgradenetheritegold.body",
       "~CUSTOM:UpgradenetheriteironArmor.body",
       "~CUSTOM:EnderiteArmor.body"
-    ],
-    "BLOCKS:minecraft:replaceable": [
-      "~CUSTOM:Eauregenerante"
     ],
     "ITEMS:minecraft:enchantable/durability": [
       "~CUSTOM:Dynamitem",
