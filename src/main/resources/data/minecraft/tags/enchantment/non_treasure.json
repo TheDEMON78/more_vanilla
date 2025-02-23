@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "more_vanilla:healboost",
     "more_vanilla:healaura",
     "more_vanilla:nohunger",
     "more_vanilla:voldevie"
