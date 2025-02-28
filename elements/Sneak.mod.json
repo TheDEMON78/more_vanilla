@@ -1,0 +1,12 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "LSHIFT",
+    "keyBindingName": "Sneak",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "SneakOnKeyPressed"
+    }
+  }
+}

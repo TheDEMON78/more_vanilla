@@ -7210,6 +7210,126 @@
           }
         ]
       }
+    },
+    {
+      "name": "Elevator",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elevator",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/more_vanilla/models/block/elevator.json",
+          "src/main/resources/data/more_vanilla/loot_table/blocks/elevator.json",
+          "src/main/resources/assets/more_vanilla/models/item/elevator.json",
+          "src/main/java/net/mcreator/more_vanilla/block/ElevatorBlock.java",
+          "src/main/resources/assets/more_vanilla/blockstates/elevator.json"
+        ]
+      }
+    },
+    {
+      "name": "SauterOnKeyPressed",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sauter_on_key_pressed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/more_vanilla/procedures/SauterOnKeyPressedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sauter",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sauter",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/more_vanilla/network/SauterMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "SneakOnKeyPressed",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sneak_on_key_pressed",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/more_vanilla/procedures/SneakOnKeyPressedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sneak",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sneak",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/more_vanilla/network/SneakMessage.java"
+        ]
+      }
+    },
+    {
+      "name": "Elevatorcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elevatorcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_vanilla/recipe/elevatorcraft.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -7232,9 +7352,6 @@
     }
   ],
   "tag_elements": {
-    "BLOCKS:minecraft:replaceable": [
-      "~CUSTOM:Eauregenerante"
-    ],
     "ITEMS:minecraft:chest_armor": [
       "~CUSTOM:Rubyarmor.body",
       "~CUSTOM:Sapphirearmor.body",
@@ -7244,6 +7361,9 @@
       "~CUSTOM:Upgradenetheritegold.body",
       "~CUSTOM:UpgradenetheriteironArmor.body",
       "~CUSTOM:EnderiteArmor.body"
+    ],
+    "BLOCKS:minecraft:replaceable": [
+      "~CUSTOM:Eauregenerante"
     ],
     "ITEMS:minecraft:enchantable/durability": [
       "~CUSTOM:Dynamitem",
@@ -7572,19 +7692,20 @@
       "block.more_vanilla.far_end_fence": "Barrière du Far_end",
       "advancements.luckornoluck.title": "Chance ou pas chance",
       "item.more_vanilla.eauregenerante_bucket.description_0": "C\u0027est une eau mystique qui vous reg�n�re",
-      "item.more_vanilla.emeraldaxe": "Hache en Emeraude",
-      "advancements.exavatoradvancement_emerald.descr": "Crafter l\u0027exvator ultime",
       "advancements.adapaxeladvancementupgradeemerauldnetherite.title": "Adapaxel en upgrade émeraude netherite",
+      "advancements.exavatoradvancement_emerald.descr": "Crafter l\u0027exvator ultime",
+      "item.more_vanilla.emeraldaxe": "Hache en Emeraude",
       "advancements.hammeradvancementupgradeemerauldnetherite.title": "Hammer en upgrade émeraude netherite",
       "block.more_vanilla.shinyenderblock": "Bloc d\u0027Enderite brillant",
-      "advancements.exavatoradvancementgolden.descr": "Crafter l\u0027exvator ultime",
       "item.more_vanilla.golden_exavator": "Excavateur en Or",
+      "advancements.exavatoradvancementgolden.descr": "Crafter l\u0027exvator ultime",
       "item.more_vanilla.iron_exavator": "Excavateur en fer",
       "advancements.adapaxeladvancementgolden.descr": "Crafter la paxel ultime",
       "item.more_vanilla.enderite_sword": "Epée en Enderite",
       "advancements.adapaxeladvancementupgradeironnetherite.title": "Adapaxel en upgrade iron netherite",
-      "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
+      "itemGroup.more_vanilla.the_demo_nmod": "The DEMON mod",
       "item.more_vanilla.battle.desc": "battle vs the enderite king",
+      "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
       "block.more_vanilla.enderzone_stairs": "Escalier d\u0027enderzone",
       "item.more_vanilla.sapphirepickaxe": "Pioche en Sapphire",
       "item.more_vanilla.upgradeironnetheriteexavator": "Upgrade iron netherite exavator",
@@ -7622,6 +7743,7 @@
       "item.more_vanilla.sapphirearmor_boots": "Bottes en Sapphire",
       "item.more_vanilla.eauregenerante_bucket": "Sceau d\u0027eau regenerante",
       "item.more_vanilla.rubyarmor_helmet": "Casque en Ruby",
+      "key.more_vanilla.sneak": "Sneak",
       "advancements.adapaxeladvancementupgradegoldnetherite.title": "Adapaxel en upgrade gold netherite",
       "item.more_vanilla.woodenhammer": "Marteau en bois",
       "advancements.soontheenderitedimension.title": "Bientôt la dimension de l\u0027enderite",
@@ -7688,6 +7810,7 @@
       "advancements.hammeradvancement.title": "Hammer en netherite",
       "advancements.thechance.descr": "Obtenir un morceau d\u0027enderite avec la plante d\u0027enderite (2%)",
       "item.more_vanilla.upgradeemerauldnetheriteexavator": "Upgrade emerauld netherite exavator",
+      "block.more_vanilla.elevator": "Elevator",
       "advancements.theenderitedimension.title": "La dimension enderite",
       "advancements.exavatoradvancementenderite.descr": "Crafter l\u0027exvator ultime",
       "item.more_vanilla.upgradenetheritediamond_leggings": "Upgrade netherite diamant Leggings",
@@ -7778,6 +7901,7 @@
       "advancements.soontheenderitedimension.descr": "Crafter un bloc du portail",
       "advancements.the_boss.descr": "Tuer le boss d\u0027enderite",
       "item.more_vanilla.upgradenetheritegoldaxe": "Upgrade netherite gold Axe",
+      "itemGroup.more_vanilla.upgradenetherite": "Upgradenetherite",
       "item.more_vanilla.adapaxelenderite": "Adapaxel en Enderite",
       "advancements.hammeradvancement_ruby.title": "Hammer en Ruby",
       "block.more_vanilla.enderzone_wood": "Bois d\u0027enderzone",
@@ -7812,6 +7936,7 @@
       "advancements.luckornoluck.descr": "Ouvrir un Luckyblock en Netherite",
       "advancements.hammeradvancementupgradeemerauldnetherite.descr": "Crafter le hammer ultime",
       "advancements.emeraldadvancement.title": "Emerald advancement",
+      "key.more_vanilla.sauter": "Go up elevator",
       "block.more_vanilla.enderzonedirt": "Terre d\u0027enderzone",
       "biome.more_vanilla.upgradebiome": "Upgradebiome",
       "advancements.exavatoradvancementgolden.title": "Exavator en or",
@@ -7869,6 +7994,7 @@
       "item.more_vanilla.enderitescrap": "Morceau d\u0027Enderite",
       "advancements.exavatoradvencementupgradeironnetherite.descr": "Crafter l\u0027exvator ultime",
       "advancements.adapaxeladvancementupgradegoldnetherite.descr": "Crafter la paxel ultime",
+      "itemGroup.more_vanilla.moregems": "Moregems",
       "entity.more_vanilla.endsilver": "Endsilver",
       "advancements.thebigchance.title": "La grosse chance",
       "item.more_vanilla.loki.desc": "Loki easter egg",
@@ -7918,19 +8044,20 @@
       "block.more_vanilla.far_end_fence": "Far_end Fence",
       "item.more_vanilla.eauregenerante_bucket.description_0": "C\u0027est une eau mystique qui vous reg�n�re",
       "advancements.luckornoluck.title": "Luck or no luck",
-      "advancements.adapaxeladvancementupgradeemerauldnetherite.title": "Upgrade emerauld netherite Adapaxel",
-      "advancements.exavatoradvancement_emerald.descr": "Craft the ultimate Exavator",
       "item.more_vanilla.emeraldaxe": "Emerald axe",
+      "advancements.exavatoradvancement_emerald.descr": "Craft the ultimate Exavator",
+      "advancements.adapaxeladvancementupgradeemerauldnetherite.title": "Upgrade emerauld netherite Adapaxel",
       "advancements.hammeradvancementupgradeemerauldnetherite.title": "Upgrade emerauld netherite Hammer",
       "block.more_vanilla.shinyenderblock": "Shiny enderite block",
-      "advancements.exavatoradvancementgolden.descr": "Craft the ultimate Exavator",
       "item.more_vanilla.golden_exavator": "Golden exavator",
+      "advancements.exavatoradvancementgolden.descr": "Craft the ultimate Exavator",
       "item.more_vanilla.iron_exavator": "Iron exavator",
       "advancements.adapaxeladvancementgolden.descr": "Craft the ultimate Adapaxel",
       "item.more_vanilla.enderite_sword": "Enderite Sword",
       "advancements.adapaxeladvancementupgradeironnetherite.title": "Upgrade iron netherite Adapaxel",
-      "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
+      "itemGroup.more_vanilla.the_demo_nmod": "The DEMON mod",
       "item.more_vanilla.battle.desc": "battle vs the enderite king",
+      "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
       "block.more_vanilla.enderzone_stairs": "Enderzone Stairs",
       "item.more_vanilla.sapphirepickaxe": "Sapphire pickaxe",
       "item.more_vanilla.upgradeironnetheriteexavator": "Upgrade iron netherite exavator",
@@ -7968,6 +8095,7 @@
       "item.more_vanilla.sapphirearmor_boots": "Sapphire Boots",
       "item.more_vanilla.eauregenerante_bucket": "Bucket of regenerating water",
       "item.more_vanilla.rubyarmor_helmet": "Ruby Helmet",
+      "key.more_vanilla.sneak": "Sneak",
       "advancements.adapaxeladvancementupgradegoldnetherite.title": "Upgrade gold netherite Adapaxel",
       "item.more_vanilla.woodenhammer": "Wooden hammer",
       "advancements.soontheenderitedimension.title": "Soon the enderite dimension",
@@ -8034,6 +8162,7 @@
       "advancements.hammeradvancement.title": "Netherite Hammer",
       "advancements.thechance.descr": "Obtain Scrap of enderite with enderite flower (2%)",
       "item.more_vanilla.upgradeemerauldnetheriteexavator": "Upgrade emerauld netherite exavator",
+      "block.more_vanilla.elevator": "Elevator",
       "advancements.theenderitedimension.title": "The enderite dimension",
       "advancements.exavatoradvancementenderite.descr": "Craft the ultimate Exavator",
       "item.more_vanilla.upgradenetheritediamond_leggings": "Upgrade netherite diamond Leggings",
@@ -8124,6 +8253,7 @@
       "advancements.soontheenderitedimension.descr": "craft the block of portal",
       "advancements.the_boss.descr": "Kill The boss of enderite",
       "item.more_vanilla.upgradenetheritegoldaxe": "Upgrade netherite gold Axe",
+      "itemGroup.more_vanilla.upgradenetherite": "Upgradenetherite",
       "item.more_vanilla.adapaxelenderite": "Enderite Adapaxel",
       "advancements.hammeradvancement_ruby.title": "Ruby Hammer",
       "block.more_vanilla.enderzone_wood": "Enderzone Wood",
@@ -8158,6 +8288,7 @@
       "advancements.luckornoluck.descr": "Open a Netherite Luckyblock",
       "advancements.hammeradvancementupgradeemerauldnetherite.descr": "Craft the ultimate Hammer",
       "advancements.emeraldadvancement.title": "Emerald advancement",
+      "key.more_vanilla.sauter": "Go up elevator",
       "block.more_vanilla.enderzonedirt": "Far_end dirt",
       "biome.more_vanilla.upgradebiome": "Upgradebiome",
       "advancements.exavatoradvancementgolden.title": "Gold Exavator",
@@ -8215,6 +8346,7 @@
       "item.more_vanilla.enderitescrap": "Enderite scrap",
       "advancements.exavatoradvencementupgradeironnetherite.descr": "Craft the ultimate Exavator",
       "advancements.adapaxeladvancementupgradegoldnetherite.descr": "Craft the ultimate Adapaxel",
+      "itemGroup.more_vanilla.moregems": "Moregems",
       "entity.more_vanilla.endsilver": "Endsilver",
       "advancements.thebigchance.title": "The big chance",
       "item.more_vanilla.loki.desc": "Loki easter egg",
@@ -8264,19 +8396,20 @@
       "block.more_vanilla.far_end_fence": "Barrière du Far_end",
       "advancements.luckornoluck.title": "Chance ou pas chance",
       "item.more_vanilla.eauregenerante_bucket.description_0": "C\u0027est une eau mystique qui vous reg�n�re",
-      "item.more_vanilla.emeraldaxe": "Hache en Emeraude",
-      "advancements.exavatoradvancement_emerald.descr": "Crafter l\u0027exvator ultime",
       "advancements.adapaxeladvancementupgradeemerauldnetherite.title": "Adapaxel en upgrade émeraude netherite",
+      "advancements.exavatoradvancement_emerald.descr": "Crafter l\u0027exvator ultime",
+      "item.more_vanilla.emeraldaxe": "Hache en Emeraude",
       "advancements.hammeradvancementupgradeemerauldnetherite.title": "Hammer en upgrade émeraude netherite",
       "block.more_vanilla.shinyenderblock": "Bloc d\u0027Enderite brillant",
-      "advancements.exavatoradvancementgolden.descr": "Crafter l\u0027exvator ultime",
       "item.more_vanilla.golden_exavator": "Excavateur en Or",
+      "advancements.exavatoradvancementgolden.descr": "Crafter l\u0027exvator ultime",
       "item.more_vanilla.iron_exavator": "Excavateur en fer",
       "advancements.adapaxeladvancementgolden.descr": "Crafter la paxel ultime",
       "item.more_vanilla.enderite_sword": "Epée en Enderite",
       "advancements.adapaxeladvancementupgradeironnetherite.title": "Adapaxel en upgrade iron netherite",
-      "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
+      "itemGroup.more_vanilla.the_demo_nmod": "The DEMON mod",
       "item.more_vanilla.battle.desc": "battle vs the enderite king",
+      "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
       "block.more_vanilla.enderzone_stairs": "Escalier d\u0027enderzone",
       "item.more_vanilla.sapphirepickaxe": "Pioche en Sapphire",
       "item.more_vanilla.upgradeironnetheriteexavator": "Upgrade iron netherite exavator",
@@ -8314,6 +8447,7 @@
       "item.more_vanilla.sapphirearmor_boots": "Bottes en Sapphire",
       "item.more_vanilla.eauregenerante_bucket": "Sceau d\u0027eau regenerante",
       "item.more_vanilla.rubyarmor_helmet": "Casque en Ruby",
+      "key.more_vanilla.sneak": "Sneak",
       "advancements.adapaxeladvancementupgradegoldnetherite.title": "Adapaxel en upgrade gold netherite",
       "item.more_vanilla.woodenhammer": "Marteau en bois",
       "advancements.soontheenderitedimension.title": "Bientôt la dimension de l\u0027enderite",
@@ -8380,6 +8514,7 @@
       "advancements.hammeradvancement.title": "Hammer en netherite",
       "advancements.thechance.descr": "Obtenir un morceau d\u0027enderite avec la plante d\u0027enderite (2%)",
       "item.more_vanilla.upgradeemerauldnetheriteexavator": "Upgrade emerauld netherite exavator",
+      "block.more_vanilla.elevator": "Elevator",
       "advancements.theenderitedimension.title": "La dimension enderite",
       "advancements.exavatoradvancementenderite.descr": "Crafter l\u0027exvator ultime",
       "item.more_vanilla.upgradenetheritediamond_leggings": "Upgrade netherite diamant Leggings",
@@ -8470,6 +8605,7 @@
       "advancements.soontheenderitedimension.descr": "Crafter un bloc du portail",
       "advancements.the_boss.descr": "Tuer le boss d\u0027enderite",
       "item.more_vanilla.upgradenetheritegoldaxe": "Upgrade netherite gold Axe",
+      "itemGroup.more_vanilla.upgradenetherite": "Upgradenetherite",
       "item.more_vanilla.adapaxelenderite": "Adapaxel en Enderite",
       "advancements.hammeradvancement_ruby.title": "Hammer en Ruby",
       "block.more_vanilla.enderzone_wood": "Bois d\u0027enderzone",
@@ -8504,6 +8640,7 @@
       "advancements.luckornoluck.descr": "Ouvrir un Luckyblock en Netherite",
       "advancements.hammeradvancementupgradeemerauldnetherite.descr": "Crafter le hammer ultime",
       "advancements.emeraldadvancement.title": "Emerald advancement",
+      "key.more_vanilla.sauter": "Go up elevator",
       "block.more_vanilla.enderzonedirt": "Terre d\u0027enderzone",
       "biome.more_vanilla.upgradebiome": "Upgradebiome",
       "advancements.exavatoradvancementgolden.title": "Exavator en or",
@@ -8561,6 +8698,7 @@
       "item.more_vanilla.enderitescrap": "Morceau d\u0027Enderite",
       "advancements.exavatoradvencementupgradeironnetherite.descr": "Crafter l\u0027exvator ultime",
       "advancements.adapaxeladvancementupgradegoldnetherite.descr": "Crafter la paxel ultime",
+      "itemGroup.more_vanilla.moregems": "Moregems",
       "entity.more_vanilla.endsilver": "Endsilver",
       "advancements.thebigchance.title": "La grosse chance",
       "item.more_vanilla.loki.desc": "Loki easter egg",

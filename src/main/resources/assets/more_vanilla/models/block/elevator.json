@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_vanilla:block/elevator",
+    "up": "more_vanilla:block/elevator",
+    "north": "more_vanilla:block/elevator",
+    "east": "more_vanilla:block/elevator",
+    "south": "more_vanilla:block/elevator",
+    "west": "more_vanilla:block/elevator",
+    "particle": "more_vanilla:block/elevator"
+  },
+  "render_type": "solid"
+}

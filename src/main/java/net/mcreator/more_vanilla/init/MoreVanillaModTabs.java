@@ -111,6 +111,7 @@ public class MoreVanillaModTabs {
 				tabData.accept(MoreVanillaModBlocks.ENDERZONEGRASS.get().asItem());
 				tabData.accept(MoreVanillaModItems.LOKI.get());
 				tabData.accept(MoreVanillaModItems.BATTLE.get());
+				tabData.accept(MoreVanillaModBlocks.ELEVATOR.get().asItem());
 			}).build());
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> UPGRADENETHERITE = REGISTRY.register("upgradenetherite",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.more_vanilla.upgradenetherite")).icon(() -> new ItemStack(MoreVanillaModItems.UPGRADENETHERITEIRONINGOT.get())).displayItems((parameters, tabData) -> {

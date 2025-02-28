@@ -1,0 +1,12 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "SPACE",
+    "keyBindingName": "Go up elevator",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "SauterOnKeyPressed"
+    }
+  }
+}

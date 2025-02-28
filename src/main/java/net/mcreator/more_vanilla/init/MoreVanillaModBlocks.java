@@ -65,6 +65,7 @@ import net.mcreator.more_vanilla.block.EnderiteblockBlock;
 import net.mcreator.more_vanilla.block.EnddirtBlock;
 import net.mcreator.more_vanilla.block.EndbarrierBlock;
 import net.mcreator.more_vanilla.block.EmeraldoreBlock;
+import net.mcreator.more_vanilla.block.ElevatorBlock;
 import net.mcreator.more_vanilla.block.EdnrockslabBlock;
 import net.mcreator.more_vanilla.block.EauregeneranteBlock;
 import net.mcreator.more_vanilla.block.CaveblockBlock;
@@ -133,6 +134,7 @@ public class MoreVanillaModBlocks {
 	public static final DeferredBlock<Block> ENDERZONE_BUTTON = REGISTRY.register("enderzone_button", EnderzoneButtonBlock::new);
 	public static final DeferredBlock<Block> ENDERZONEDIRT = REGISTRY.register("enderzonedirt", EnderzonedirtBlock::new);
 	public static final DeferredBlock<Block> ENDERZONEGRASS = REGISTRY.register("enderzonegrass", EnderzonegrassBlock::new);
+	public static final DeferredBlock<Block> ELEVATOR = REGISTRY.register("elevator", ElevatorBlock::new);
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

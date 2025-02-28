@@ -330,6 +330,7 @@ public class MoreVanillaModItems {
 	public static final DeferredItem<Item> ENDERZONEGRASS = block(MoreVanillaModBlocks.ENDERZONEGRASS);
 	public static final DeferredItem<Item> LOKI = REGISTRY.register("loki", LokiItem::new);
 	public static final DeferredItem<Item> BATTLE = REGISTRY.register("battle", BattleItem::new);
+	public static final DeferredItem<Item> ELEVATOR = block(MoreVanillaModBlocks.ELEVATOR);
 
 	// Start of user code block custom items
 	// End of user code block custom items
