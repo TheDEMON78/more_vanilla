@@ -91,7 +91,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxel.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelstone",
@@ -104,7 +105,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelstoneItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxelstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeliron",
@@ -117,7 +119,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelironItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxeliron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelgold",
@@ -130,7 +133,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxelgold.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelgoldItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeldiamond",
@@ -143,7 +147,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxeldiamond.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxeldiamondItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelnetherite",
@@ -156,7 +161,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxelnetherite.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelnetheriteItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelcraftbois",
@@ -168,7 +174,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftbois.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelcraftstone",
@@ -180,7 +187,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelcraftiron",
@@ -192,7 +200,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftiron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelcraftgold",
@@ -204,7 +213,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftgold.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelcraftdiamand",
@@ -216,7 +226,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftdiamand.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxelcraftnetherite",
@@ -228,7 +239,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftnetherite.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "WoodenhammerQuandLeBlocEstDetruitAvecLoutil",
@@ -262,7 +274,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Woodenhammer",
@@ -275,7 +288,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/WoodenhammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/woodenhammer.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Stonehammer",
@@ -288,7 +302,8 @@
           "src/main/resources/assets/more_vanilla/models/item/stonehammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/StonehammerItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Ironhammer",
@@ -301,7 +316,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/IronhammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/ironhammer.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Goldhammer",
@@ -314,7 +330,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/GoldhammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/goldhammer.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Diamondhammer",
@@ -327,7 +344,8 @@
           "src/main/resources/assets/more_vanilla/models/item/diamondhammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/DiamondhammerItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Netheritehammer",
@@ -340,7 +358,8 @@
           "src/main/resources/assets/more_vanilla/models/item/netheritehammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/NetheritehammerItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Woodenexavator",
@@ -353,7 +372,8 @@
           "src/main/resources/assets/more_vanilla/models/item/woodenexavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/WoodenexavatorItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "WoodenexavatorQuandLeBlocEstDetruitAvecLoutil",
@@ -387,7 +407,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "StoneExavator",
@@ -400,7 +421,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/StoneExavatorItem.java",
           "src/main/resources/assets/more_vanilla/models/item/stone_exavator.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "IronExavator",
@@ -413,7 +435,8 @@
           "src/main/resources/assets/more_vanilla/models/item/iron_exavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/IronExavatorItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "GoldenExavator",
@@ -426,7 +449,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/GoldenExavatorItem.java",
           "src/main/resources/assets/more_vanilla/models/item/golden_exavator.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "DiamondExavator",
@@ -439,7 +463,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/DiamondExavatorItem.java",
           "src/main/resources/assets/more_vanilla/models/item/diamond_exavator.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "NetheriteExavator",
@@ -452,7 +477,8 @@
           "src/main/resources/assets/more_vanilla/models/item/netherite_exavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/NetheriteExavatorItem.java"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammercraftnetherite",
@@ -464,7 +490,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftnetherite.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatorcraftnetherite",
@@ -476,7 +503,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftnetherite.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammercraftwooden",
@@ -488,7 +516,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftwooden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammercraftstone",
@@ -500,7 +529,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammercraftiron",
@@ -512,7 +542,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftiron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammercraftgolden",
@@ -524,7 +555,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftgolden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammercraftdiamond",
@@ -536,7 +568,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftdiamond.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatorcraftwooden",
@@ -548,7 +581,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftwooden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatorcraftstone",
@@ -560,7 +594,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatorcraftiron",
@@ -572,7 +607,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftiron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatorcraftgolden",
@@ -584,7 +620,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftgolden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatorcraftdiamond",
@@ -596,7 +633,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftdiamond.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "FeedQuandUneCommandeEstExecutee",
@@ -626,7 +664,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancement.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatoradvancement",
@@ -638,7 +677,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancement.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammeradvancement",
@@ -650,7 +690,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancement.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "AdapaxelnetheriteQuandLobjetEstFabriquefondu",
@@ -668,7 +709,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "NetheritehammerQuandLobjetEstFabriquefondu",
@@ -686,7 +728,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "NetheriteExavatorQuandLobjetEstFabriquefondu",
@@ -704,7 +747,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeladvancementstone",
@@ -716,7 +760,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeladvancementiron",
@@ -728,7 +773,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementiron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeladvancementgolden",
@@ -740,7 +786,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementgolden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeladvancementdiamond",
@@ -752,7 +799,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementdiamond.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Adapaxeladvancementwooden",
@@ -764,7 +812,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementwooden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "AdapaxelQuandLobjetEstFabriquefondu",
@@ -782,7 +831,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "AdapaxelstoneQuandLobjetEstFabriquefondu",
@@ -800,7 +850,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "AdapaxelironQuandLobjetEstFabriquefondu",
@@ -818,7 +869,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "AdapaxelgoldQuandLobjetEstFabriquefondu",
@@ -836,7 +888,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "AdapaxeldiamondQuandLobjetEstFabriquefondu",
@@ -854,7 +907,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatoradvancementwooden",
@@ -866,7 +920,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementwooden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatoradvancementstone",
@@ -878,7 +933,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatoradvancementiron",
@@ -890,7 +946,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementiron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatoradvancementgolden",
@@ -902,7 +959,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementgolden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Exavatoradvancementdiamond",
@@ -914,7 +972,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementdiamond.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "WoodenexavatorQuandLobjetEstFabriquefondu",
@@ -932,7 +991,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "StoneExavatorQuandLobjetEstFabriquefondu",
@@ -950,7 +1010,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "IronExavatorQuandLobjetEstFabriquefondu",
@@ -968,7 +1029,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "GoldenExavatorQuandLobjetEstFabriquefondu",
@@ -986,7 +1048,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "DiamondExavatorQuandLobjetEstFabriquefondu",
@@ -1004,7 +1067,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammeradvancementwooden",
@@ -1016,7 +1080,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementwooden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammeradvancementstone",
@@ -1028,7 +1093,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementstone.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammeradvancementiron",
@@ -1040,7 +1106,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementiron.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammeradvancementgolden",
@@ -1052,7 +1119,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementgolden.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Hammeradvancementdiamond",
@@ -1064,7 +1132,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementdiamond.json"
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "WoodenhammerQuandLobjetEstFabriquefondu",
@@ -1082,7 +1151,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "StonehammerQuandLobjetEstFabriquefondu",
@@ -1100,7 +1170,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "IronhammerQuandLobjetEstFabriquefondu",
@@ -1118,7 +1189,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "GoldhammerQuandLobjetEstFabriquefondu",
@@ -1136,7 +1208,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "DiamondhammerQuandLobjetEstFabriquefondu",
@@ -1154,7 +1227,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/more tools"
     },
     {
       "name": "Enderiteingot",
@@ -1167,7 +1241,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderiteingot.json",
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteingotItem.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderitescrap",
@@ -1180,7 +1255,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderitescrapItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderitescrap.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderiteore",
@@ -1199,7 +1275,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderiteore.json",
           "src/main/resources/assets/more_vanilla/models/item/enderiteore.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderiteingotcraft",
@@ -1211,7 +1288,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderiteingotcraft.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderitePickaxe",
@@ -1224,7 +1302,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderitePickaxeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderite_pickaxe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteAxe",
@@ -1237,7 +1316,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderite_axe.json",
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteAxeItem.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteSword",
@@ -1250,7 +1330,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteSwordItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderite_sword.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteShovel",
@@ -1263,7 +1344,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteShovelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderite_shovel.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteHoe",
@@ -1276,7 +1358,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteHoeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderite_hoe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderitePickaxeRecipe",
@@ -1288,7 +1371,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_pickaxe_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteAxeRecipe",
@@ -1300,7 +1384,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_axe_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteSwordRecipe",
@@ -1312,7 +1397,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_sword_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteShovelRecipe",
@@ -1324,7 +1410,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_shovel_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteHoeRecipe",
@@ -1336,7 +1423,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_hoe_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteArmorHelmetRecipe",
@@ -1348,7 +1436,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_armor_helmet_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteArmorBodyRecipe",
@@ -1360,7 +1449,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_armor_body_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteArmorLeggingsRecipe",
@@ -1372,7 +1462,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_armor_leggings_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteArmorBootsRecipe",
@@ -1384,7 +1475,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderite_armor_boots_recipe.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Adapaxelenderite",
@@ -1397,7 +1489,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelenderiteItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxelenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderitehammer",
@@ -1410,7 +1503,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderitehammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/EnderitehammerItem.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteExavator",
@@ -1423,7 +1517,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteExavatorItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderite_exavator.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Adapaxelcraftenderite",
@@ -1435,7 +1530,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Hammercraftenderite",
@@ -1447,7 +1543,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Exavatorcraftenderite",
@@ -1459,7 +1556,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Adapaxeladvancementenderite",
@@ -1471,7 +1569,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Exavatoradvancementenderite",
@@ -1483,7 +1582,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Hammeradvancementenderite",
@@ -1495,7 +1595,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementenderite.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "AdapaxelenderiteQuandLobjetEstFabriquefondu",
@@ -1513,7 +1614,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderitehammerQuandLobjetEstFabriquefondu",
@@ -1531,7 +1633,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteExavatorQuandLobjetEstFabriquefondu",
@@ -1549,7 +1652,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Astart",
@@ -1599,7 +1703,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderite_armor_chestplate.json",
           "src/main/resources/assets/more_vanilla/models/item/enderite_armor_boots.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "TheDEMONmod",
@@ -1627,7 +1732,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "NetheriteappleQuandLaNourritureEstMangee",
@@ -1657,7 +1763,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderiteapplecraft.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Netheriteapplecraft",
@@ -1685,7 +1792,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/enderiteblock.json",
           "src/main/resources/assets/more_vanilla/models/item/enderiteblock.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderiteblockcraft",
@@ -1697,7 +1805,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderiteblockcraft.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderiteblockdecraft",
@@ -1709,7 +1818,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderiteblockdecraft.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Enderpearlore",
@@ -1774,7 +1884,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteArmorEvenementDeTickDesBottes",
@@ -1792,7 +1903,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Caveblockparticule",
@@ -1819,7 +1931,8 @@
           "src/main/resources/assets/more_vanilla/models/item/bossofenderitephase1_spawn_egg.json",
           "src/main/java/net/mcreator/more_vanilla/client/renderer/BossofenderiteRenderer.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "TheBoss",
@@ -1861,7 +1974,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Sbirebossenderite",
@@ -1875,7 +1989,8 @@
           "src/main/java/net/mcreator/more_vanilla/client/renderer/SbirebossenderiteRenderer.java",
           "src/main/java/net/mcreator/more_vanilla/entity/SbirebossenderiteEntity.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "BossofenderiteQuandLentiteEstBlessee",
@@ -1905,7 +2020,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Findenderiteore",
@@ -1917,7 +2033,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/findenderiteore.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "EnderiteoreQuandLeBlocEstDetruitParUnJoueur",
@@ -1935,7 +2052,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "PlanteofenderiteQuandLaPlanteEstDetruiteParUnJoueur",
@@ -2063,7 +2181,8 @@
           "src/main/resources/data/more_vanilla/worldgen/biome/enderitebiome.json",
           "src/main/resources/data/more_vanilla/worldgen/placed_feature/enderitebiome_tree.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endstonemodified",
@@ -2144,7 +2263,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/craftofblockblockportal.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Soontheenderitedimension",
@@ -2347,7 +2467,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteironingot.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteironingotItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldingot",
@@ -2360,7 +2481,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegoldingot.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritegoldingotItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetherite",
@@ -2383,7 +2505,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteemerauldingotItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauldingot.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondingot",
@@ -2396,7 +2519,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondingotItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamondingot.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironArmor",
@@ -2416,7 +2540,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_armor_boots.json",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_armor_helmet.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironhelmetcraft",
@@ -2428,7 +2553,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeironhelmetcraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironchesplatecraft",
@@ -2440,7 +2566,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeironchesplatecraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironleggingscraft",
@@ -2452,7 +2579,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeironleggingscraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironbootscraft",
@@ -2464,7 +2592,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeironbootscraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironPickaxe",
@@ -2477,7 +2606,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_pickaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteironPickaxeItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironAxe",
@@ -2490,7 +2620,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_axe.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteironAxeItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironSword",
@@ -2503,7 +2634,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_sword.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteironSwordItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironShovel",
@@ -2516,7 +2648,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_shovel.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteironShovelItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironHoe",
@@ -2529,7 +2662,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteironHoeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteiron_hoe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironPickaxeRecipe",
@@ -2541,7 +2675,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteiron_pickaxe_recipe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironAxeRecipe",
@@ -2553,7 +2688,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteiron_axe_recipe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironSwordRecipe",
@@ -2565,7 +2701,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteiron_sword_recipe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironShovelRecipe",
@@ -2577,7 +2714,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteiron_shovel_recipe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradenetheriteironHoeRecipe",
@@ -2589,7 +2727,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteiron_hoe_recipe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Craftupgradeiron",
@@ -2601,7 +2740,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/craftupgradeiron.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Craftupgradegold",
@@ -2613,7 +2753,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/craftupgradegold.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Craftupgradeemerauld",
@@ -2625,7 +2766,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/craftupgradeemerauld.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Craftupgradediamond",
@@ -2637,7 +2779,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/craftupgradediamond.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegold",
@@ -2657,7 +2800,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegold_boots.json",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegold_chestplate.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldhelmet",
@@ -2669,7 +2813,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradegoldhelmet.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldchesplate",
@@ -2681,7 +2826,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradegoldchesplate.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldleggings",
@@ -2693,7 +2839,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradegoldleggings.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldboots",
@@ -2705,7 +2852,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradegoldboots.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldpickaxe",
@@ -2718,7 +2866,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegoldpickaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritegoldpickaxeItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldaxe",
@@ -2731,7 +2880,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegoldaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritegoldaxeItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldsword",
@@ -2744,7 +2894,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritegoldswordItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegoldsword.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldshovel",
@@ -2757,7 +2908,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritegoldshovelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegoldshovel.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldhoe",
@@ -2770,7 +2922,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritegoldhoe.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritegoldhoeItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldpickaxer",
@@ -2782,7 +2935,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritegoldpickaxer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldaxer",
@@ -2794,7 +2948,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritegoldaxer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldswordr",
@@ -2806,7 +2961,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritegoldswordr.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldshovelr",
@@ -2818,7 +2974,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritegoldshovelr.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritegoldhoer",
@@ -2830,7 +2987,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritegoldhoer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauld",
@@ -2850,7 +3008,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauld_leggings.json",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauld_chestplate.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemerauldhelmet",
@@ -2862,7 +3021,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeemerauldhelmet.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemerauldchesplate",
@@ -2874,7 +3034,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeemerauldchesplate.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemerauldleggings",
@@ -2886,7 +3047,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeemerauldleggings.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemerauldboots",
@@ -2898,7 +3060,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradeemerauldboots.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldpickaxe",
@@ -2911,7 +3074,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteemerauldpickaxeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauldpickaxe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldaxe",
@@ -2924,7 +3088,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteemerauldaxeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauldaxe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldsword",
@@ -2937,7 +3102,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteemerauldswordItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauldsword.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldshovel",
@@ -2950,7 +3116,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauldshovel.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteemerauldshovelItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldhoe",
@@ -2963,7 +3130,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheriteemerauldhoeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteemerauldhoe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldpickaxer",
@@ -2975,7 +3143,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteemerauldpickaxer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldaxer",
@@ -2987,7 +3156,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteemerauldaxer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldswodr",
@@ -2999,7 +3169,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteemerauldswodr.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldshovelr",
@@ -3011,7 +3182,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteemerauldshovelr.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteemerauldhoer",
@@ -3023,7 +3195,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteemerauldhoer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamond",
@@ -3043,7 +3216,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamond_leggings.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondhelmet",
@@ -3055,7 +3229,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradediamondhelmet.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondchsplate",
@@ -3067,7 +3242,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradediamondchsplate.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondleggings",
@@ -3079,7 +3255,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradediamondleggings.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondboots",
@@ -3091,7 +3268,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradediamondboots.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondpickaxe",
@@ -3104,7 +3282,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamondpickaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondpickaxeItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondaxe",
@@ -3117,7 +3296,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondaxeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamondaxe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondsword",
@@ -3130,7 +3310,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondswordItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamondsword.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondshovel",
@@ -3143,7 +3324,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondshovelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamondshovel.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondhoe",
@@ -3156,7 +3338,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradenetheritediamondhoeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheritediamondhoe.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondpickaxer",
@@ -3168,7 +3351,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritediamondpickaxer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondaxer",
@@ -3180,7 +3364,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritediamondaxer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondswordr",
@@ -3192,7 +3377,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritediamondswordr.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondshovelr",
@@ -3204,7 +3390,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritediamondshovelr.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheritediamondhoer",
@@ -3216,7 +3403,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheritediamondhoer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockiron",
@@ -3232,7 +3420,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteblockiron.json",
           "src/main/resources/assets/more_vanilla/blockstates/upgradenetheriteblockiron.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockgold",
@@ -3248,7 +3437,8 @@
           "src/main/resources/assets/more_vanilla/models/block/upgradenetheriteblockgold.json",
           "src/main/resources/assets/more_vanilla/models/item/upgradenetheriteblockgold.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockemerauld",
@@ -3264,7 +3454,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/upgradenetheriteblockemerauld.json",
           "src/main/resources/assets/more_vanilla/blockstates/upgradenetheriteblockemerauld.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockdiamond",
@@ -3280,7 +3471,8 @@
           "src/main/resources/assets/more_vanilla/models/block/upgradenetheriteblockdiamond.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/upgradenetheriteblockdiamond.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockironcraft",
@@ -3292,7 +3484,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteblockironcraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockgoldcraft",
@@ -3304,7 +3497,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteblockgoldcraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockemerauldcraft",
@@ -3316,7 +3510,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteblockemerauldcraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradenetheriteblockdiamondcraft",
@@ -3328,7 +3523,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/upgradenetheriteblockdiamondcraft.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Enderiteapple",
@@ -3341,7 +3537,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EnderiteappleItem.java",
           "src/main/resources/assets/more_vanilla/models/item/enderiteapple.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Netheriteapple",
@@ -3367,7 +3564,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelupgradeironnetheriteItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxelupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironnetheritehammer",
@@ -3380,7 +3578,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradeironnetheritehammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradeironnetheritehammer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironnetherite",
@@ -3393,7 +3592,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradeironnetheriteexavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradeironnetheriteItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelupgradegoldnetherite",
@@ -3406,7 +3606,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxelupgradegoldnetherite.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelupgradegoldnetheriteItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldnetheritehammer",
@@ -3419,7 +3620,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradegoldnetheritehammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradegoldnetheritehammerItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldnetheriteexavator",
@@ -3432,7 +3634,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradegoldnetheriteexavatorItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradegoldnetheriteexavator.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelupgradeemerauldnetherite",
@@ -3445,7 +3648,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxelupgradeemerauldnetherite.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelupgradeemerauldnetheriteItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemerauldnetheritehammer",
@@ -3458,7 +3662,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradeemerauldnetheritehammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradeemerauldnetheritehammer.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemerauldnetheriteexavator",
@@ -3471,7 +3676,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradeemerauldnetheriteexavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradeemerauldnetheriteexavatorItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelupgradediamondnetherite",
@@ -3484,7 +3690,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelupgradediamondnetheriteItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxelupgradediamondnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondnetheritehammer",
@@ -3497,7 +3704,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradediamondnetheritehammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/UpgradediamondnetheritehammerItem.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondnetheriteexavator",
@@ -3510,7 +3718,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/UpgradediamondnetheriteexavatorItem.java",
           "src/main/resources/assets/more_vanilla/models/item/upgradediamondnetheriteexavator.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxeladvancementupgradeironnetherite",
@@ -3522,7 +3731,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatoradvencementupgradeironnetherite",
@@ -3534,7 +3744,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvencementupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammeradvancementupgradeironnetherite",
@@ -3546,7 +3757,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxeladvancementupgradegoldnetherite",
@@ -3558,7 +3770,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementupgradegoldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxeladvancementupgradeemerauldnetherite",
@@ -3570,7 +3783,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementupgradeemerauldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxeladvancementupgradediamondnetherite",
@@ -3582,7 +3796,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancementupgradediamondnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatoradvancementupgradegoldnetherite",
@@ -3594,7 +3809,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementupgradegoldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatoradvancementupgradeemerauld",
@@ -3606,7 +3822,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementupgradeemerauld.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatoradvancementupgradediamondnetherite",
@@ -3618,7 +3835,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancementupgradediamondnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammeradvancementupgradegoldnetherite",
@@ -3630,7 +3848,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementupgradegoldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammeradvancementupgradeemerauldnetherite",
@@ -3642,7 +3861,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementupgradeemerauldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammeradvancementupgradediamondnetherite",
@@ -3654,7 +3874,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancementupgradediamondnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammercraftupgradeironnetherite",
@@ -3666,7 +3887,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammercraftupgradegoldnetherite",
@@ -3678,7 +3900,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftupgradegoldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammercraftupgradeemerauldnetherite",
@@ -3690,7 +3913,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftupgradeemerauldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Hammercraftupgradediamond",
@@ -3702,7 +3926,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftupgradediamond.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatorcraftupgradeironnetherite",
@@ -3714,7 +3939,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatorcraftupgradegoldnetherite",
@@ -3726,7 +3952,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftupgradegoldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatorcraftupgradeemerauldnetherite",
@@ -3738,7 +3965,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftupgradeemerauldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Exavatorcraftupgradediamondnetherite",
@@ -3750,7 +3978,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftupgradediamondnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelcraftupgradeironnetherite",
@@ -3762,7 +3991,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftupgradeironnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelcraftupgradegoldnetherite",
@@ -3774,7 +4004,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftupgradegoldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelcraftupgradeemerauldnetherite",
@@ -3786,7 +4017,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftupgradeemerauldnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelcraftupgradediamondnetherite",
@@ -3798,7 +4030,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraftupgradediamondnetherite.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "AdapaxelupgradeironnetheriteQuandLobjetEstFabriquefondu",
@@ -3816,7 +4049,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradeironnetheritehammerQuandLobjetEstFabriquefondu",
@@ -3834,7 +4068,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradeironnetheriteQuandLobjetEstFabriquefondu",
@@ -3852,7 +4087,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "AdapaxelupgradegoldnetheriteQuandLobjetEstFabriquefondu",
@@ -3870,7 +4106,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradegoldnetheritehammerQuandLobjetEstFabriquefondu",
@@ -3888,7 +4125,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradegoldnetheriteexavatorQuandLobjetEstFabriquefondu",
@@ -3906,7 +4144,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "AdapaxelupgradeemerauldnetheriteQuandLobjetEstFabriquefondu",
@@ -3924,7 +4163,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradeemerauldnetheritehammerQuandLobjetEstFabriquefondu",
@@ -3942,7 +4182,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradeemerauldnetheriteexavatorQuandLobjetEstFabriquefondu",
@@ -3960,7 +4201,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "AdapaxelupgradediamondnetheriteQuandLobjetEstFabriquefondu",
@@ -3978,7 +4220,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradediamondnetheritehammerQuandLobjetEstFabriquefondu",
@@ -3996,7 +4239,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "UpgradediamondnetheriteexavatorQuandLobjetEstFabriquefondu",
@@ -4014,7 +4258,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Adapaxelemerald",
@@ -4027,7 +4272,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxelemerald.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelemeraldItem.java"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Adapaxelruby",
@@ -4040,7 +4286,8 @@
           "src/main/resources/assets/more_vanilla/models/item/adapaxelruby.json",
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelrubyItem.java"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Adapaxelsapphire",
@@ -4053,7 +4300,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/AdapaxelsapphireItem.java",
           "src/main/resources/assets/more_vanilla/models/item/adapaxelsapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Ruby",
@@ -4066,7 +4314,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/RubyItem.java",
           "src/main/resources/assets/more_vanilla/models/item/ruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Sapphire",
@@ -4079,7 +4328,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/SapphireItem.java",
           "src/main/resources/assets/more_vanilla/models/item/sapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Moregems",
@@ -4102,7 +4352,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/SapphirepickaxeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/sapphirepickaxe.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Rubypickaxe",
@@ -4115,7 +4366,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/RubypickaxeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/rubypickaxe.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Emeraldpickaxe",
@@ -4128,7 +4380,8 @@
           "src/main/resources/assets/more_vanilla/models/item/emeraldpickaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldpickaxeItem.java"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Sapphireshovel",
@@ -4141,7 +4394,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/SapphireshovelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/sapphireshovel.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphireaxe",
@@ -4154,7 +4408,8 @@
           "src/main/resources/assets/more_vanilla/models/item/sapphireaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/SapphireaxeItem.java"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphirehoe",
@@ -4167,7 +4422,8 @@
           "src/main/resources/assets/more_vanilla/models/item/sapphirehoe.json",
           "src/main/java/net/mcreator/more_vanilla/item/SapphirehoeItem.java"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphiresword",
@@ -4180,7 +4436,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/SapphireswordItem.java",
           "src/main/resources/assets/more_vanilla/models/item/sapphiresword.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Rubysword",
@@ -4193,7 +4450,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/RubyswordItem.java",
           "src/main/resources/assets/more_vanilla/models/item/rubysword.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Emeraldsword",
@@ -4206,7 +4464,8 @@
           "src/main/resources/assets/more_vanilla/models/item/emeraldsword.json",
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldswordItem.java"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldshovel",
@@ -4219,7 +4478,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldshovelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/emeraldshovel.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldaxe",
@@ -4232,7 +4492,8 @@
           "src/main/resources/assets/more_vanilla/models/item/emeraldaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldaxeItem.java"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldhoe",
@@ -4245,7 +4506,8 @@
           "src/main/resources/assets/more_vanilla/models/item/emeraldhoe.json",
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldhoeItem.java"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Rubyshovel",
@@ -4258,7 +4520,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/RubyshovelItem.java",
           "src/main/resources/assets/more_vanilla/models/item/rubyshovel.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyaxe",
@@ -4271,7 +4534,8 @@
           "src/main/resources/assets/more_vanilla/models/item/rubyaxe.json",
           "src/main/java/net/mcreator/more_vanilla/item/RubyaxeItem.java"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyhoe",
@@ -4284,7 +4548,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/RubyhoeItem.java",
           "src/main/resources/assets/more_vanilla/models/item/rubyhoe.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyhammer",
@@ -4297,7 +4562,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/RubyhammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/rubyhammer.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyexavator",
@@ -4310,7 +4576,8 @@
           "src/main/resources/assets/more_vanilla/models/item/rubyexavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/RubyexavatorItem.java"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Sapphirehammer",
@@ -4323,7 +4590,8 @@
           "src/main/resources/assets/more_vanilla/models/item/sapphirehammer.json",
           "src/main/java/net/mcreator/more_vanilla/item/SapphirehammerItem.java"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Emeraldhammer",
@@ -4336,7 +4604,8 @@
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldhammerItem.java",
           "src/main/resources/assets/more_vanilla/models/item/emeraldhammer.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Sapphireexavator",
@@ -4349,7 +4618,8 @@
           "src/main/resources/assets/more_vanilla/models/item/sapphireexavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/SapphireexavatorItem.java"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Emeraldexavator",
@@ -4362,7 +4632,8 @@
           "src/main/resources/assets/more_vanilla/models/item/emeraldexavator.json",
           "src/main/java/net/mcreator/more_vanilla/item/EmeraldexavatorItem.java"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Rubyore",
@@ -4381,7 +4652,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/RubyoreBlock.java",
           "src/main/resources/data/more_vanilla/worldgen/configured_feature/rubyore.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Sapphireore",
@@ -4400,7 +4672,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/SapphireoreBlock.java",
           "src/main/resources/data/more_vanilla/worldgen/placed_feature/sapphireore.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Emeraldarmor",
@@ -4420,7 +4693,8 @@
           "src/main/resources/assets/more_vanilla/models/item/emeraldarmor_helmet.json",
           "src/main/resources/assets/more_vanilla/models/item/emeraldarmor_boots.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Sapphirearmor",
@@ -4440,7 +4714,8 @@
           "src/main/resources/assets/more_vanilla/models/item/sapphirearmor_leggings.json",
           "src/main/resources/assets/more_vanilla/models/item/sapphirearmor_chestplate.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Rubyarmor",
@@ -4460,7 +4735,8 @@
           "src/main/resources/assets/more_vanilla/models/item/rubyarmor_leggings.json",
           "src/main/java/net/mcreator/more_vanilla/item/RubyarmorItem.java"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "AdapaxelcraftRuby",
@@ -4472,7 +4748,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraft_ruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Hammercraftruby",
@@ -4484,7 +4761,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Exavatorcraftruby",
@@ -4496,7 +4774,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyblock",
@@ -4512,7 +4791,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/RubyblockBlock.java",
           "src/main/resources/data/more_vanilla/loot_table/blocks/rubyblock.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Sapphireblock",
@@ -4528,7 +4808,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/sapphireblock.json",
           "src/main/resources/assets/more_vanilla/models/item/sapphireblock.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "AdapaxelcraftSapphire",
@@ -4540,7 +4821,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraft_sapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Hammercraftsapphire",
@@ -4552,7 +4834,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraftsapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Exavatorcraftsapphire",
@@ -4564,7 +4847,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraftsapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "AdapaxelcraftEmerald",
@@ -4576,7 +4860,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/adapaxelcraft_emerald.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "HammercraftEmerald",
@@ -4588,7 +4873,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/hammercraft_emerald.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "ExavatorcraftEmerald",
@@ -4600,7 +4886,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/exavatorcraft_emerald.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldswordcraft",
@@ -4612,7 +4899,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldswordcraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldshovelcraft",
@@ -4624,7 +4912,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldshovelcraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldaxecraft",
@@ -4636,7 +4925,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldaxecraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldpickaxecraft",
@@ -4648,7 +4938,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldpickaxecraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldhoecraft",
@@ -4660,7 +4951,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldhoecraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Sapphireswordcraft",
@@ -4672,7 +4964,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphireswordcraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphireshovelcraft",
@@ -4684,7 +4977,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphireshovelcraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphireaxecraft",
@@ -4696,7 +4990,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphireaxecraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphirepickaxecraft",
@@ -4708,7 +5003,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphirepickaxecraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphirehoecraft",
@@ -4720,7 +5016,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphirehoecraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Rubyswordcraft",
@@ -4732,7 +5029,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyswordcraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyshovelcraft",
@@ -4744,7 +5042,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyshovelcraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyaxecraft",
@@ -4756,7 +5055,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyaxecraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubypickaxecraft",
@@ -4768,7 +5068,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubypickaxecraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyhoecraft",
@@ -4780,7 +5081,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyhoecraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyblockcraft",
@@ -4792,7 +5094,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyblockcraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Sapphireblockcraft",
@@ -4804,7 +5107,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphireblockcraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphirecraft",
@@ -4816,7 +5120,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphirecraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Rubycraft",
@@ -4828,7 +5133,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubycraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyhelmetcraft",
@@ -4840,7 +5146,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyhelmetcraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubybootscraft",
@@ -4852,7 +5159,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubybootscraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubychesplatecraft",
@@ -4864,7 +5172,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubychesplatecraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Rubyleggingscraft",
@@ -4876,7 +5185,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/rubyleggingscraft.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Emeraldhelmetcraft",
@@ -4888,7 +5198,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldhelmetcraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldbootscraft",
@@ -4900,7 +5211,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldbootscraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldchesplatecraft",
@@ -4912,7 +5224,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldchesplatecraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldleggingscraft",
@@ -4924,7 +5237,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/emeraldleggingscraft.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Sapphirehelmetcraft",
@@ -4936,7 +5250,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphirehelmetcraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphirebootscraft",
@@ -4948,7 +5263,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphirebootscraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphirechesplatecraft",
@@ -4960,7 +5276,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphirechesplatecraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Sapphireleggingscraft",
@@ -4972,7 +5289,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/sapphireleggingscraft.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "ExavatorAdvancementSapphire",
@@ -4984,7 +5302,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavator_advancement_sapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "AdapaxeladvancementSapphire",
@@ -4996,7 +5315,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancement_sapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "HammeradvancementSapphire",
@@ -5008,7 +5328,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancement_sapphire.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "ExavatorAdvancementRuby",
@@ -5020,7 +5341,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavator_advancement_ruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "HammeradvancementRuby",
@@ -5032,7 +5354,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancement_ruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "AdapaxeladvancementRuby",
@@ -5044,7 +5367,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancement_ruby.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "ExavatoradvancementEmerald",
@@ -5056,7 +5380,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/exavatoradvancement_emerald.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "HammeradvancementEmerald",
@@ -5068,7 +5393,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/hammeradvancement_emerald.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "AdapaxeladvancementEmerald",
@@ -5080,7 +5406,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/adapaxeladvancement_emerald.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "AdapaxelemeraldLorsqueLoutilEstDansLaMain",
@@ -5098,7 +5425,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "AdapaxelrubyLorsqueLoutilEstDansLaMain",
@@ -5116,7 +5444,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "AdapaxelsapphireLorsqueLoutilEstDansLaMain",
@@ -5134,7 +5463,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "RubyhammerLorsqueLoutilEstDansLaMain",
@@ -5152,7 +5482,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "RubyexavatorLorsqueLoutilEstDansLaMain",
@@ -5170,7 +5501,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "SapphirehammerLorsqueLoutilEstDansLaMain",
@@ -5188,7 +5520,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "EmeraldhammerLorsqueLoutilEstDansLaMain",
@@ -5206,7 +5539,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "SapphireexavatorLorsqueLoutilEstDansLaMain",
@@ -5224,7 +5558,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "EmeraldexavatorLorsqueLoutilEstDansLaMain",
@@ -5242,7 +5577,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Rubyadvancement",
@@ -5254,7 +5590,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/rubyadvancement.json"
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "Sapphireadvancement",
@@ -5266,7 +5603,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/sapphireadvancement.json"
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "RubyoreQuandLeBlocEstDetruitParUnJoueur",
@@ -5300,7 +5638,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Ruby"
     },
     {
       "name": "SapphireoreQuandLeBlocEstDetruitParUnJoueur",
@@ -5334,7 +5673,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/sapphire"
     },
     {
       "name": "Emeraldore",
@@ -5353,7 +5693,8 @@
           "src/main/resources/data/more_vanilla/worldgen/placed_feature/emeraldore.json",
           "src/main/resources/assets/more_vanilla/blockstates/emeraldore.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Emeraldadvancement",
@@ -5365,7 +5706,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/advancement/emeraldadvancement.json"
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "EmeraldoreQuandLeBlocEstDetruitParUnJoueur",
@@ -5399,7 +5741,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/emerauld"
     },
     {
       "name": "Greenfireball",
@@ -5552,7 +5895,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/worldgen/biome/upgradebiome.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeironboss",
@@ -5567,7 +5911,8 @@
           "src/main/java/net/mcreator/more_vanilla/client/renderer/UpgradeironbossRenderer.java",
           "src/main/resources/data/more_vanilla/neoforge/biome_modifier/upgradeironboss_biome_modifier.json"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradegoldboss",
@@ -5582,7 +5927,8 @@
           "src/main/java/net/mcreator/more_vanilla/client/renderer/UpgradegoldbossRenderer.java",
           "src/main/java/net/mcreator/more_vanilla/entity/UpgradegoldbossEntity.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradeemeraldboss",
@@ -5597,7 +5943,8 @@
           "src/main/resources/assets/more_vanilla/models/item/upgradeemeraldboss_spawn_egg.json",
           "src/main/java/net/mcreator/more_vanilla/entity/UpgradeemeraldbossEntity.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Upgradediamondboss",
@@ -5612,7 +5959,8 @@
           "src/main/java/net/mcreator/more_vanilla/entity/UpgradediamondbossEntity.java",
           "src/main/java/net/mcreator/more_vanilla/client/renderer/UpgradediamondbossRenderer.java"
         ]
-      }
+      },
+      "path": "~/upgradenetherite"
     },
     {
       "name": "Endgrass",
@@ -5631,7 +5979,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/EndgrassBlock.java",
           "src/main/resources/data/more_vanilla/loot_table/blocks/endgrass.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Shinyenderblock",
@@ -5647,7 +5996,8 @@
           "src/main/resources/assets/more_vanilla/models/item/shinyenderblock.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/shinyenderblock.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Endstonepillar",
@@ -5691,7 +6041,8 @@
           "src/main/resources/assets/more_vanilla/models/item/endwood.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/endwood.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endplanks",
@@ -5707,7 +6058,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/endplanks.json",
           "src/main/resources/assets/more_vanilla/models/block/endplanks.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endplankscraft",
@@ -5719,7 +6071,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endplankscraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Stickcraft",
@@ -5731,7 +6084,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/stickcraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Craftingtablecraft",
@@ -5743,7 +6097,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/crafting_table.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endleaves",
@@ -5759,7 +6114,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/endleaves.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/endleaves.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endrock",
@@ -5778,7 +6134,8 @@
           "src/main/resources/data/more_vanilla/worldgen/configured_feature/endrock.json",
           "src/main/resources/data/more_vanilla/worldgen/placed_feature/endrock.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Barrel",
@@ -5795,7 +6152,8 @@
           "src/main/resources/assets/more_vanilla/models/block/barrel.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/barrel.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Barrelgui",
@@ -5826,7 +6184,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/EndslabBlock.java",
           "src/main/resources/assets/more_vanilla/models/block/endslab_full.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Ednrockslab",
@@ -5844,7 +6203,8 @@
           "src/main/resources/assets/more_vanilla/models/item/ednrockslab.json",
           "src/main/resources/assets/more_vanilla/models/block/ednrockslab_top.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endplanksstairs",
@@ -5862,7 +6222,8 @@
           "src/main/resources/assets/more_vanilla/models/item/endplanksstairs.json",
           "src/main/resources/assets/more_vanilla/models/block/endplanksstairs_inner.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endrockstairs",
@@ -5880,7 +6241,8 @@
           "src/main/resources/assets/more_vanilla/models/item/endrockstairs.json",
           "src/main/resources/assets/more_vanilla/models/block/endrockstairs_outer.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endslabcraft",
@@ -5892,7 +6254,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endslabcraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endrockslab",
@@ -5904,7 +6267,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endrockslab.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endplanksstairscraft",
@@ -5916,7 +6280,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endplanksstairscraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endrockstairscraft",
@@ -5928,7 +6293,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endrockstairscraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Barrelcraft",
@@ -5940,7 +6306,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/barrelcraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EauregeneranteFeature",
@@ -6118,7 +6485,8 @@
           "src/main/resources/assets/more_vanilla/models/block/endbarrier_post.json",
           "src/main/resources/assets/more_vanilla/models/block/endbarrier_inventory.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endgate",
@@ -6137,7 +6505,8 @@
           "src/main/resources/assets/more_vanilla/models/block/endgate_open.json",
           "src/main/resources/assets/more_vanilla/models/item/endgate.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endgatecraft",
@@ -6149,7 +6518,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endgatecraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endbarriercraft",
@@ -6161,7 +6531,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endbarriercraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Enddirt",
@@ -6180,7 +6551,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enddirt.json",
           "src/main/resources/data/more_vanilla/worldgen/placed_feature/enddirt.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endtrapedoor",
@@ -6198,7 +6570,8 @@
           "src/main/resources/assets/more_vanilla/models/block/endtrapedoor_top.json",
           "src/main/resources/assets/more_vanilla/models/block/endtrapedoor_open.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Endtrapedoorcraft",
@@ -6210,7 +6583,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/endtrapedoorcraft.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Bossofenderitephase2",
@@ -6223,7 +6597,8 @@
           "src/main/java/net/mcreator/more_vanilla/entity/Bossofenderitephase2Entity.java",
           "src/main/java/net/mcreator/more_vanilla/client/renderer/Bossofenderitephase2Renderer.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Bossofenderitephase2QuandLentiteMeurt",
@@ -6241,7 +6616,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Bossofenderitephase2QuandLentiteEnTueUneAutre",
@@ -6259,7 +6635,8 @@
             "type": "entity"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Spawnbosstest",
@@ -6304,7 +6681,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Spawnerboss",
@@ -6320,7 +6698,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/spawnerboss.json",
           "src/main/resources/assets/more_vanilla/models/block/spawnerboss.json"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Bossofenderitephase2QuandLentiteEstBlessee",
@@ -6350,7 +6729,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Endsilver",
@@ -6364,7 +6744,8 @@
           "src/main/resources/assets/more_vanilla/models/item/endsilver_spawn_egg.json",
           "src/main/java/net/mcreator/more_vanilla/client/renderer/EndsilverRenderer.java"
         ]
-      }
+      },
+      "path": "~/enderite"
     },
     {
       "name": "Far_endWood",
@@ -6380,7 +6761,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/far_end_wood.json",
           "src/main/resources/assets/more_vanilla/blockstates/far_end_wood.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endLog",
@@ -6396,7 +6778,8 @@
           "src/main/resources/assets/more_vanilla/models/item/far_end_log.json",
           "src/main/resources/assets/more_vanilla/models/block/far_end_log.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endPlanks",
@@ -6412,7 +6795,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/Far_endPlanksBlock.java",
           "src/main/resources/assets/more_vanilla/models/item/far_end_planks.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endLeaves",
@@ -6428,7 +6812,8 @@
           "src/main/resources/assets/more_vanilla/models/block/far_end_leaves.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/far_end_leaves.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endStairs",
@@ -6446,7 +6831,8 @@
           "src/main/resources/assets/more_vanilla/models/block/far_end_stairs_outer.json",
           "src/main/resources/assets/more_vanilla/models/item/far_end_stairs.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endSlab",
@@ -6464,7 +6850,8 @@
           "src/main/resources/assets/more_vanilla/models/block/far_end_slab.json",
           "src/main/resources/assets/more_vanilla/models/block/far_end_slab_full.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endFence",
@@ -6482,7 +6869,8 @@
           "src/main/java/net/mcreator/more_vanilla/block/Far_endFenceBlock.java",
           "src/main/resources/assets/more_vanilla/blockstates/far_end_fence.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endFenceGate",
@@ -6501,7 +6889,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/far_end_fence_gate.json",
           "src/main/resources/assets/more_vanilla/models/block/far_end_fence_gate_wall_open.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endPressurePlate",
@@ -6518,7 +6907,8 @@
           "src/main/resources/assets/more_vanilla/models/item/far_end_pressure_plate.json",
           "src/main/resources/assets/more_vanilla/models/block/far_end_pressure_plate.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endButton",
@@ -6536,7 +6926,8 @@
           "src/main/resources/assets/more_vanilla/models/block/far_end_button_inventory.json",
           "src/main/resources/assets/more_vanilla/models/block/far_end_button_pressed.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endWoodRecipe",
@@ -6548,7 +6939,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_wood_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endPlanksLogRecipe",
@@ -6560,7 +6952,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_planks_log_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endPlanksWoodRecipe",
@@ -6572,7 +6965,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_planks_wood_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endStairsRecipe",
@@ -6584,7 +6978,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_stairs_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endSlabRecipe",
@@ -6596,7 +6991,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_slab_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endFenceRecipe",
@@ -6608,7 +7004,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_fence_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endFenceGateRecipe",
@@ -6620,7 +7017,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_fence_gate_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endPressurePlateRecipe",
@@ -6632,7 +7030,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_pressure_plate_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endButtonRecipe",
@@ -6644,7 +7043,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_button_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Far_endStickRecipe",
@@ -6656,7 +7056,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/far_end_stick_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Farendbiome",
@@ -6671,7 +7072,8 @@
           "src/main/java/net/mcreator/more_vanilla/world/features/treedecorators/FarendbiomeFruitDecorator.java",
           "src/main/resources/data/more_vanilla/worldgen/placed_feature/farendbiome_tree.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Farendgrass",
@@ -6687,7 +7089,8 @@
           "src/main/resources/assets/more_vanilla/models/item/farendgrass.json",
           "src/main/resources/assets/more_vanilla/blockstates/farendgrass.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Farenddirt",
@@ -6703,7 +7106,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/farenddirt.json",
           "src/main/resources/assets/more_vanilla/blockstates/farenddirt.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneWood",
@@ -6719,7 +7123,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzone_wood.json",
           "src/main/java/net/mcreator/more_vanilla/block/EnderzoneWoodBlock.java"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneLog",
@@ -6735,7 +7140,8 @@
           "src/main/resources/assets/more_vanilla/models/block/enderzone_log.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzone_log.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzonePlanks",
@@ -6751,7 +7157,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderzone_planks.json",
           "src/main/resources/assets/more_vanilla/blockstates/enderzone_planks.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneLeaves",
@@ -6767,7 +7174,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzone_leaves.json",
           "src/main/java/net/mcreator/more_vanilla/block/EnderzoneLeavesBlock.java"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneStairs",
@@ -6785,7 +7193,8 @@
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzone_stairs.json",
           "src/main/resources/assets/more_vanilla/models/block/enderzone_stairs_outer.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneSlab",
@@ -6803,7 +7212,8 @@
           "src/main/resources/assets/more_vanilla/models/block/enderzone_slab_top.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzone_slab.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneFence",
@@ -6821,7 +7231,8 @@
           "src/main/resources/assets/more_vanilla/models/block/enderzone_fence_inventory.json",
           "src/main/resources/assets/more_vanilla/models/item/enderzone_fence.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneFenceGate",
@@ -6840,7 +7251,8 @@
           "src/main/resources/assets/more_vanilla/models/block/enderzone_fence_gate_open.json",
           "src/main/resources/assets/more_vanilla/models/block/enderzone_fence_gate.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzonePressurePlate",
@@ -6857,7 +7269,8 @@
           "src/main/resources/assets/more_vanilla/blockstates/enderzone_pressure_plate.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzone_pressure_plate.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneButton",
@@ -6875,7 +7288,8 @@
           "src/main/resources/assets/more_vanilla/models/block/enderzone_button.json",
           "src/main/resources/assets/more_vanilla/models/item/enderzone_button.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneWoodRecipe",
@@ -6887,7 +7301,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_wood_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzonePlanksLogRecipe",
@@ -6899,7 +7314,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_planks_log_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzonePlanksWoodRecipe",
@@ -6911,7 +7327,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_planks_wood_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneStairsRecipe",
@@ -6923,7 +7340,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_stairs_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneSlabRecipe",
@@ -6935,7 +7353,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_slab_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneFenceRecipe",
@@ -6947,7 +7366,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_fence_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneFenceGateRecipe",
@@ -6959,7 +7379,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_fence_gate_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzonePressurePlateRecipe",
@@ -6971,7 +7392,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_pressure_plate_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneButtonRecipe",
@@ -6983,7 +7405,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_button_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "EnderzoneStickRecipe",
@@ -6995,7 +7418,8 @@
         "files": [
           "src/main/resources/data/more_vanilla/recipe/enderzone_stick_recipe.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Enderzone",
@@ -7009,7 +7433,8 @@
           "src/main/resources/data/more_vanilla/worldgen/configured_feature/enderzone_tree.json",
           "src/main/resources/data/more_vanilla/worldgen/biome/enderzone.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Enderzonedirt",
@@ -7025,7 +7450,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderzonedirt.json",
           "src/main/java/net/mcreator/more_vanilla/block/EnderzonedirtBlock.java"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Enderzonegrass",
@@ -7041,7 +7467,8 @@
           "src/main/resources/assets/more_vanilla/models/item/enderzonegrass.json",
           "src/main/resources/data/more_vanilla/loot_table/blocks/enderzonegrass.json"
         ]
-      }
+      },
+      "path": "~/endbiome"
     },
     {
       "name": "Loki",
@@ -7328,6 +7755,18 @@
       "metadata": {
         "files": [
           "src/main/resources/data/more_vanilla/recipe/elevatorcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Endstonemodifiedcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endstonemodifiedcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_vanilla/recipe/endstonemodifiedcraft.json"
         ]
       }
     }
@@ -7743,7 +8182,7 @@
       "item.more_vanilla.sapphirearmor_boots": "Bottes en Sapphire",
       "item.more_vanilla.eauregenerante_bucket": "Sceau d\u0027eau regenerante",
       "item.more_vanilla.rubyarmor_helmet": "Casque en Ruby",
-      "key.more_vanilla.sneak": "Sneak",
+      "key.more_vanilla.sneak": "Descendre (elevator)",
       "advancements.adapaxeladvancementupgradegoldnetherite.title": "Adapaxel en upgrade gold netherite",
       "item.more_vanilla.woodenhammer": "Marteau en bois",
       "advancements.soontheenderitedimension.title": "Bientôt la dimension de l\u0027enderite",
@@ -7936,7 +8375,7 @@
       "advancements.luckornoluck.descr": "Ouvrir un Luckyblock en Netherite",
       "advancements.hammeradvancementupgradeemerauldnetherite.descr": "Crafter le hammer ultime",
       "advancements.emeraldadvancement.title": "Emerald advancement",
-      "key.more_vanilla.sauter": "Go up elevator",
+      "key.more_vanilla.sauter": "Monter (elevator)",
       "block.more_vanilla.enderzonedirt": "Terre d\u0027enderzone",
       "biome.more_vanilla.upgradebiome": "Upgradebiome",
       "advancements.exavatoradvancementgolden.title": "Exavator en or",
@@ -8044,20 +8483,20 @@
       "block.more_vanilla.far_end_fence": "Far_end Fence",
       "item.more_vanilla.eauregenerante_bucket.description_0": "C\u0027est une eau mystique qui vous reg�n�re",
       "advancements.luckornoluck.title": "Luck or no luck",
-      "item.more_vanilla.emeraldaxe": "Emerald axe",
-      "advancements.exavatoradvancement_emerald.descr": "Craft the ultimate Exavator",
       "advancements.adapaxeladvancementupgradeemerauldnetherite.title": "Upgrade emerauld netherite Adapaxel",
+      "advancements.exavatoradvancement_emerald.descr": "Craft the ultimate Exavator",
+      "item.more_vanilla.emeraldaxe": "Emerald axe",
       "advancements.hammeradvancementupgradeemerauldnetherite.title": "Upgrade emerauld netherite Hammer",
       "block.more_vanilla.shinyenderblock": "Shiny enderite block",
-      "item.more_vanilla.golden_exavator": "Golden exavator",
       "advancements.exavatoradvancementgolden.descr": "Craft the ultimate Exavator",
+      "item.more_vanilla.golden_exavator": "Golden exavator",
       "item.more_vanilla.iron_exavator": "Iron exavator",
       "advancements.adapaxeladvancementgolden.descr": "Craft the ultimate Adapaxel",
       "item.more_vanilla.enderite_sword": "Enderite Sword",
       "advancements.adapaxeladvancementupgradeironnetherite.title": "Upgrade iron netherite Adapaxel",
       "itemGroup.more_vanilla.the_demo_nmod": "The DEMON mod",
-      "item.more_vanilla.battle.desc": "battle vs the enderite king",
       "item.more_vanilla.upgradenetheriteiron_armor_leggings": "Upgrade netherite iron Leggings",
+      "item.more_vanilla.battle.desc": "battle vs the enderite king",
       "block.more_vanilla.enderzone_stairs": "Enderzone Stairs",
       "item.more_vanilla.sapphirepickaxe": "Sapphire pickaxe",
       "item.more_vanilla.upgradeironnetheriteexavator": "Upgrade iron netherite exavator",
@@ -8095,7 +8534,7 @@
       "item.more_vanilla.sapphirearmor_boots": "Sapphire Boots",
       "item.more_vanilla.eauregenerante_bucket": "Bucket of regenerating water",
       "item.more_vanilla.rubyarmor_helmet": "Ruby Helmet",
-      "key.more_vanilla.sneak": "Sneak",
+      "key.more_vanilla.sneak": "Go down elevator",
       "advancements.adapaxeladvancementupgradegoldnetherite.title": "Upgrade gold netherite Adapaxel",
       "item.more_vanilla.woodenhammer": "Wooden hammer",
       "advancements.soontheenderitedimension.title": "Soon the enderite dimension",
@@ -8447,7 +8886,7 @@
       "item.more_vanilla.sapphirearmor_boots": "Bottes en Sapphire",
       "item.more_vanilla.eauregenerante_bucket": "Sceau d\u0027eau regenerante",
       "item.more_vanilla.rubyarmor_helmet": "Casque en Ruby",
-      "key.more_vanilla.sneak": "Sneak",
+      "key.more_vanilla.sneak": "Descendre (elevator)",
       "advancements.adapaxeladvancementupgradegoldnetherite.title": "Adapaxel en upgrade gold netherite",
       "item.more_vanilla.woodenhammer": "Marteau en bois",
       "advancements.soontheenderitedimension.title": "Bientôt la dimension de l\u0027enderite",
@@ -8640,7 +9079,7 @@
       "advancements.luckornoluck.descr": "Ouvrir un Luckyblock en Netherite",
       "advancements.hammeradvancementupgradeemerauldnetherite.descr": "Crafter le hammer ultime",
       "advancements.emeraldadvancement.title": "Emerald advancement",
-      "key.more_vanilla.sauter": "Go up elevator",
+      "key.more_vanilla.sauter": "Monter (elevator)",
       "block.more_vanilla.enderzonedirt": "Terre d\u0027enderzone",
       "biome.more_vanilla.upgradebiome": "Upgradebiome",
       "advancements.exavatoradvancementgolden.title": "Exavator en or",
@@ -8741,7 +9180,36 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Ruby",
+        "children": []
+      },
+      {
+        "name": "sapphire",
+        "children": []
+      },
+      {
+        "name": "emerauld",
+        "children": []
+      },
+      {
+        "name": "upgradenetherite",
+        "children": []
+      },
+      {
+        "name": "endbiome",
+        "children": []
+      },
+      {
+        "name": "more tools",
+        "children": []
+      },
+      {
+        "name": "enderite",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "more_vanilla",

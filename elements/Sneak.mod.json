@@ -3,7 +3,7 @@
   "_type": "keybind",
   "definition": {
     "triggerKey": "LSHIFT",
-    "keyBindingName": "Sneak",
+    "keyBindingName": "Go down elevator",
     "keyBindingCategoryKey": "misc",
     "onKeyPressed": {
       "name": "SneakOnKeyPressed"

@@ -49,7 +49,7 @@
     ],
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Farenddirt"
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
